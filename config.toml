@@ -1,4 +1,4 @@
-baseURL        = "notasrandom.github.io"
+baseURL        = "https://notasrandom.github.io/"
 title          = "Mis notas random"
 languageCode   = "es-ar"
 hasCJKLanguage = true
