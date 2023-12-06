@@ -1,18 +1,14 @@
-baseURL        = "/"
-title          = "hugo-pure"
-languageCode   = "en-us"
+baseURL        = "notasrandom.github.io"
+title          = "Mis notas random"
+languageCode   = "es-ar"
 hasCJKLanguage = true
 paginate       = 4
 copyright      = "©2023"
 
 [params]
-  description = "Demo Site"
+  description = "Mis Notas"
   summaryLength = 70
     
-[permalinks]
-  [permalinks.page]
-    posts = "/:slugorfilename/"
-    v     = "/:slugorfilename/"
 
 [menu]
   [[menu.main]]
@@ -20,11 +16,6 @@ copyright      = "©2023"
     url        = "/"
     title      = "Home"
     weight     = 1
-  [[menu.main]]
-    identifier = "posts"
-    url        = "/v/"
-    title      = "Posts"
-    weight     = 5
 
   [[menu.footer]]
     identifier = "github"
@@ -58,7 +49,7 @@ pluralizeListTitles = false
 
 [markup]
   [markup.highlight]
-    noClasses = false
+    noClasses = true
 
 # [outputFormats]
 #   [outputFormats.jsentries]
