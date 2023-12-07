@@ -472,7 +472,7 @@ Pero hay otros factores que le quitan esta prioridad:
 9. Cuando voy a girar
 ```
 
-### Estacionamiento
+## Estacionamiento
 #### 50 cm por delante y por detrás y a no más de 20cm del cordón
 
 #### La moto no se puede estacionar en la vereda, tampoco puedo estacionar mi auto en la senda peatonal, tampoco puedo estacionar el vehículo en la ochava, tampoco es correcto estacionar ni detenerse en doble fila
