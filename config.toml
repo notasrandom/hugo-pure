@@ -1,5 +1,5 @@
 baseURL        = "https://notasrandom.github.io/"
-title          = "Mis notas random"
+title          = "Notas random"
 languageCode   = "es-ar"
 hasCJKLanguage = true
 paginate       = 4
