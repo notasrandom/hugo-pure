@@ -61,11 +61,11 @@ Menores de 10 años deben viajar siempre atrás y en los sistemas de retención 
 Si el chico tiene mas de 10 años puede ir en el asiento delantero pero acondicionado, si no llega a la altura por el cinturón de seguridad tenés que usar un booster para adaptarlo al cinturón
 
 #### Sistemas de retención infantil
-1. Huevito: Desde el nacimiento hasta el año o 13kg aprox. A tener en cuenta: al usar el huevito el chico tiene que tener la cabeza hacia adelante (no mirando hacia en frente) porque en cualquier frenada que hago le podés romper la cervical a tu hijo, y tiene que ir en el medio por si hay un choque lateral. Con el cinturón de seguridad.
-2. Sillita: También con cinturón de seguirdad Desde el año hasta 4/5 años. Desde 13kg hasta 25kg. aprox.
-3. Booster desde los 4/5 años o 25kg aprox. hasta los 10 aoñs o más de 1,5mts de altura.
+1. Huevito: Desde el nacimiento hasta el año o 13kg aprox. A tener en cuenta: al usar el huevito el chico tiene que tener la cabeza hacia adelante (no mirando hacia en frente) porque en cualquier frenada que hago le podés romper la cervical a tu hijo, y tiene que ir en el medio por si hay un choque lateral. 
+2. Sillita: Con cinturón de seguirdad. Desde el año hasta 4/5 años. Desde 13kg hasta 25kg. aprox.
+3. Booster desde los 4/5 años o 25kg aprox. hasta los 10 años o más de 1,5mts de altura.
 
-Hay grupos de autos que vienen con un sistema sads o elixofits son como trabas en el medio para que pueda ir más seguro
+Hay grupos de autos que vienen con un sistema latch o isofix son como trabas en el medio para que pueda ir más seguro
 
 
 ### El uso de cinturones en las embarazadas
@@ -122,23 +122,23 @@ Carril rápido = izquierdo
 
 Tengo que buscar que el casco tenga la sigla `C.H.A.S`. 
 #### Tipos de casco
-1. Integral
-2. Imparcial
-3. Rebatible: se levanta toda la parte de adelante
-4. Casco copa: Es el más inseguro pero es legal, sólo cubre la parte de arriba y con lentes puestos
+- **Integral**
+- **Imparcial**
+- **Rebatible**: se levanta toda la parte de adelante
+- **Casco copa**: Es el más inseguro pero es legal, sólo cubre la parte de arriba y con lentes puestos
 La ley dice que el casco debe cubrir 2 centímetros sobre la cuenca de los ojos y 2cm sobre los orificios auditívos siempre que sea casco para moto, no sirve el de jokey ni bicicleta.
 
-#### Estudio hecho para ver los puntos ciegos
-Desde un camión no podía ver 20 bicicletas que estaban a la izquierda
+## En un estudio realizado para estudiar los puntos ciegos:
+Se observó que desde un camión no se podía ver 20 bicicletas que estaban a la izquierda.
 
-##### Si yo estoy detrás de un vehículo que tiene tanta separación entre un eje y el otro y el va a doblar hacia la izquierda el va a hacer una maniobra a la derecha primero en donde después se va a terminar cerrando
+##### Si estoy detrás de un vehículo que tiene tanta separación entre un eje y el otro: el conductor para doblar hacia la izquierda primero hará una maniobra hacia la derecha en donde después se va a terminar cerrando.
 
-Ahora hay una calcomanía que dice: no invadir radio de giro.
+**Ahora hay una calcomanía que dice: no invadir radio de giro.**
 
 8. Respetar los semáforos.
-De cada 10, 8 eran ocupadas por siniestros viales con motos.
+De cada 10 lugares en los hospitales, 8 eran ocupadas por siniestros viales con motos.
 
-RSM (retrovisor, señalización y maniobra)
+9. RSM (retrovisor, señalización y maniobra)
 
 #### El peatón es otro usuario el cuál es el más vulnerable.
 ## El peatón tiene la obligación por cruzar por los lugares permitidos.
@@ -157,23 +157,35 @@ Si pasa por la mitad de la cuadra no tiene ningún tipo de cobertura, antes el s
 
 ___
 ## Curso Educación Vial - Módulo 3
-Profesora: Alejandra
-### Velocidades 
+Profesores: Alejandra y Rubén Tamis
+### Velocidades
+**Son las mismas para la moto y el auto**
 ```
 Avenidas: 60 km/h
 Calles: 40 km/h
 Interseccion: 30 km/h
 Escuelas: 20 km/h
 Rutas zona rural: 110 km/h
-Semi autopista: 120 km/h
+Semi-autopista: 120 km/h
+```
+**Colectivo**:
+```
+Ruta: 90km/h
+Semi-autopista: 90km/h
+```
+**Camión**:
+```
+Ruta: 80km/h
+Semi-autopista: 80km/h
 ```
 
+La velocidad mínima es la mitad de la máxima.
 
 Toda ruta que pasa por una zona urbana, automáticamente se convierte en una avenida
 
 
 #### Prioridad normativa
-Artículo 36 de la ley
+Artículo 36 de la ley 24.449
 ```
 1. Funcionario
 2. Señales
@@ -185,10 +197,11 @@ Por ejemplo costanera de posadas es una avenida pero la velocidad máxima es 30.
 De esto se trata la prioridad normativa, primero respetar a los funcionarios, las señales y por último a la ley
 
 ## tiempo de reacción
-Es el segundo desde que veo el obstáculo y hago la maniobra y piso el freno
+Es el segundo desde que veo el obstáculo, pienso, hago la maniobra y piso el freno.
 
 ### Cosas que afectan a la conducción
-El mate afecta a la conducción, tengo que estar 100% a la conducción
+El mate afecta a la conducción, tengo que estar 100% a la conducción. 
+**No podés agarrar el mate con ninguna mano.**
 
 ## Distancia mínima de seguridad
 2 segundos  
@@ -203,7 +216,7 @@ Esos 2 segundos que yo miró el celular eso termina en siniestro (avanzas 32 met
 
 Los auriculares están prohibidos. Si estoy mirando el celular puedo ocacionar un siniestro
 
-### Intoxicacción
+### Intoxicacción: Artículo 86
 Con el sólo hecho de tomar y conducir puedo ir preso.
 
 El alcohol es una droga porque toda sustancia que genera depedencia psicológica.
@@ -216,8 +229,7 @@ el alcohol es un desinhibidor elimina las fronteras morales por lo tanto es inco
 ### EN POSADAS LA TOLERANCIA DE ALCOHOL EN SANGRE ES 0.
 Aunque hay algunos enguajes bucales y vinagres que pueden dar una pequeña graduación de alcohol, por eso se espera 10 minutos y la 2da prueba es la que vale.
 
-Pero por ejemplo si tiene 1,6gr/l ya es demasiado (no tomó 2 litros de vinagre para dar ese resultado en el test de alcoholemia)
-
+Pero por ejemplo si tiene 1,6gr/l de graduación no se hará la 2da prueba y se procederá a elaborar el acta porque es evidente que no tomó 2 litros de vinagre para dar ese resultado en el test de alcoholemia
 
 
 #### Se puede otorgar la conducción a otra persona?
@@ -226,11 +238,13 @@ Sí se puede, pero tiene que estar en condicciónes, es decir no tiene que tener
 ### El alcotest no conserva residuos
 Si el control anterior dio una graduación por ejemplo 2,5 eso se va totalmente con el próximo test
 
-#### Hay muchos personas que creen que existe algún tipo de sustancia para engañar al test de alcoholemia
-Una persona hizo el test de alcoholemia y le dió 0, tomó 2 cervezas y el test le daba 0,5 intentó de todo para bajar la graduación comió pan, tomó agua, consumió de todo y el control de alcoholemia seguía dando el mismo nivel, no hay forma 
+#### Hay muchas personas que creen que existe algún tipo de sustancia para engañar al test de alcoholemia
+### No existe.
+Una persona hizo el test de alcoholemia y le dió 0, tomó 2 cervezas y el test le daba 0,5 intentó de todo para bajar la graduación comió pan, tomó agua, consumió de todo y el control de alcoholemia seguía dando el mismo nivel, **no hay forma**.
 
-El alcohol ingresa al organismo por el sistema digestivo y se va a la sangre no al estómago y lo que mide el alcoholímetro  son las moléculas de alcohol aspirado a nivel de los alveolos no del estómago, una vez que está en el sistema respiratorio es difícil engañarlo
-Las bicicletas también pueden ser sometidas al control
+El alcohol ingresa al organismo por el sistema digestivo y se va a la sangre y lo que mide el alcoholímetro son las moléculas de alcohol aspirado a nivel de los alvéolos no del estómago, una vez que está en el sistema respiratorio es difícil engañarlo.   
+Las bicicletas también pueden ser sometidas al control.   
+
 8 puntos menos a la licencia de conducir si te da positivo el test de alcoholemia o tendrás que hacer charlas de concientización o tareas comunitarias que pueden implicar trabajo físico
 
 El alcohol la única forma que tiene de metabolizar es con el tiempo.
@@ -241,13 +255,12 @@ porque el día anterior estuvo tomando alcohol hasta las 3 de la mañana, recié
 ## en posadas hay tolerancia 0 de alcohol
 En cualquier siniestro vial cualquier persona que esté involucrada tanto como peatón o conductor o pasajero pierde todo tipo de derecho si presenta alcohol en sangre
 
-##### Si te vas a una joda y sabés que vas a tomar, andate en bondi logi
+##### Si te vas a una joda y sabés que vas a tomar, andate en transporte público.
 
 
 ___
-## Módulo 4 - Curso Educación Vial
-Profesor: Rubén Tamis - Técnico superior en seguridad vial
 
+## Breve Repaso y notas que tomé del examen [https://testdeconducir.com.ar](https://testdeconducir.com.ar) (no sigue la línea de los videos).
 **Avenida tiene más prioridad que si venís de la calle**
 
 señales transitorias, señalizan la ejecución de trabajos de construcción y mantenimiento en la vía o en zonas próximas a las mismas: verdadero (naranja)
@@ -301,39 +314,32 @@ ruta que pasa por una zona urbana automaticamente se convierte en una avenida
 
 
 #### distancia mínina de seguridad: 2 segundos
+## Fin del Breve Repaso
+___
+## Módulo 4 - Curso Educación Vial
+Profesor: Rubén Tamis - Técnico superior en seguridad vial
+
+la documentación permitida entregar digatalmente es sólo el seguro  
+
+### Documentación
 celula identificacion del vehículo = mal llamada cédula verde
 
-```
-1. licencia de conducir municipal
-2. cedula de identificacion del automotor 
-3. seguro automotor (poliza)
-4. verificación técnica
-5. recibo de patente al día
-```
-
-después de los 36 meses que sale a circular obligación de que haga la verificacion técnica
-después de cada dos años hacer la VTV
-pero acá en misiones es cada añode conducir municipal
-cedula de identificacion del automotor 
-seguro automotor (poliza)
-verificación técnica
-recibo de patente al día
+Si cambio de domicilio mi licencia de conducir caduca luego de 90 días.
 
 
-la documentación permitida entregar digatalmente es sólo el seguro
-36 meses o 50.000 kilómetros tengo que volver a hacer la VTV
- 
+## vtv
+**después de los 36 meses o 50.000km que sale a circular obligación de que haga la verificacion técnica**
+después de cada dos años hacer la VTV pero acá en Misiones es cada año 
 
-licencia a mi nombre
-cédula a nombre de otra persona
-vtv a nombre de otra persona
-seguro a nombre de otra persona
-el agente de tránsito sólo controla la vigencia no la cobertura (si no pagaste el mes vas a tener problemas con la compania, los del tránsito controlan solo la vigencia) atrás de la poliza dice la posesión de este comprobante será prueba suficiente por lo exigido en el articulo 18
-no hace falta tener el ultimo recibo de pago del mes
+### Al nombre de quién puede estar la documentación?
+licencia de conducir a mi nombre  
+cédula de identificación (mal llamda cédula verde) a nombre de otra persona  
+vtv a nombre de otra persona   
+seguro a nombre de otra persona   
+el agente de tránsito sólo controla la vigencia no la cobertura (si no pagaste el mes vas a tener problemas con la compania, los del tránsito controlan solo la vigencia) atrás de la poliza dice la posesión de este comprobante será prueba suficiente por lo exigido en el articulo 18  
+no hace falta tener el ultimo recibo de pago del mes  
 
-los coches 0km después de los 36 meses o 50.000km que salen a circular tienen que hacer la VTV
-después cada 2 años, pero en Misiones es cada año
-
+##### después cada 2 años, pero en Misiones es cada año
 moto de 0km hasta los 12 meses
 
 
@@ -391,7 +397,9 @@ En los días de lluvia es importantísimo controlar esto.
 
 
 #### Estado de escobilla de mi limpia parabrisas
-El error más común es lavar el auto y no levantar las escobillas porque si el detergente entra en contacto con las escobillas provoca que después cuando se seque y el sol le dé las escobillas se van a resecar y nunca poner el zorino dtergente , el producto que va en el habitáculo tiene alcohol.
+El error más común es lavar el auto y no levantar las escobillas porque si el detergente entra en contacto con las escobillas provocará que el sol reseque las escobillas. **Nunca** poner al zorrino detergente.
+
+Generalmente el producto que va en el habitáculo para limpiar el parabrisas tiene alcohol, para que se evapore más rápido.
 
 
 ### Conducción con nieba
@@ -494,7 +502,7 @@ Blanco y rojo: órden. Azules y rojas: el azul me informa para quien es el exclu
 4. Giro calle de sentido único: La intención de cambio de carril se señaliza 30 metros antes. Si yo en una calle de sentido único voy a girar a la izquierda me debo colocar en la mano para la cual voy a girar, que en este caso sería a la izquierda.
 5. uso de trailer: tiene que tener chapa patente, luces de giro luces de stop
 6. Remolcar está prohibido, sólo en casos de fuerza mayor se puede hacer, por ejemplo si un vehiculo se queda en medio de la calzada yo lo puedo hacer hasta sacarlo de la calzada, eso sería un caso de fuerza mayor, lo que no se puede hacer es remolcar ese vehículo por todo posadas.
-7. giro a la izquierda en uruguay: en una avenida en donde me dan los dos semáforos en verdad como uruguay, NO puedo girar a la izquierda. Debo girar a la derecha y dar toda la vuelta por el barrio para poder transponer esa avenida.
+7. giro a la izquierda en uruguay: en una avenida en donde me dan los dos semáforos en verde como uruguay, NO puedo girar a la izquierda. Debo girar a la derecha y dar toda la vuelta por el barrio para poder transponer esa avenida.
 
 ### Para rendir el exámen práctico
 1. No ir en ojotas
