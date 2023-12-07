@@ -187,22 +187,21 @@ De esto se trata la prioridad normativa, primero respetar a los funcionarios, la
 ## tiempo de reacción
 Es el segundo desde que veo el obstáculo y hago la maniobra y piso el freno
 
-#### Cosas que afectan a la conducción
+### Cosas que afectan a la conducción
 El mate afecta a la conducción, tengo que estar 100% a la conducción
 
 ## Distancia mínima de seguridad
-2 segundos
+2 segundos  
 En 2 segundos se hacen 32 metros de avance
 
 #### Cómo puedo hacer esta prueba?
 Elijo un poste o un árbol cuando va pasando la parte de atrás del auto yo cuento 1101 pasó 1 segundo, cuando dije 1102 pasaron 2 segundos
 esa es la distancia mínima de seguridad que tiene que haber entre autos.
 
-Esos 2 segundos que yo miró el celular eso termina en siniestro (avanzas 32 metros cada 2 segundos)
+Esos 2 segundos que yo miró el celular eso termina en siniestro (avanzas 32 metros cada 2 segundos).  
 **Lo mismo pasa con los peatones que están distraídos con el teléfono y no miran la calle**
-Los auriculares están prohibidos 
 
-Si estoy con el celular puedo ocacionar un siniestro
+Los auriculares están prohibidos. Si estoy mirando el celular puedo ocacionar un siniestro
 
 ### Intoxicacción
 Con el sólo hecho de tomar y conducir puedo ir preso.
@@ -214,10 +213,10 @@ el alcohol es un desinhibidor elimina las fronteras morales por lo tanto es inco
 
 ¿Me puedo negar a un control de alcoholemia? NO, porque no es invasivo. Una vez que me negué 3 veces hará una acta y se asumirá que estás alcoholizado. 
 
-## en posadas hay tolerancia 0
-Algunos enguajes bucales y algunos vinagres pueden dar alguna pequeña graduación de alcohol, por eso se espera 10 minutos y la 2da es la que vale.
+### EN POSADAS LA TOLERANCIA DE ALCOHOL EN SANGRE ES 0.
+Aunque hay algunos enguajes bucales y vinagres que pueden dar una pequeña graduación de alcohol, por eso se espera 10 minutos y la 2da prueba es la que vale.
 
-Pero si tiene 1,6 ya es demasiado (no tomó 2 litros de vinagre)
+Pero por ejemplo si tiene 1,6gr/l ya es demasiado (no tomó 2 litros de vinagre para dar ese resultado en el test de alcoholemia)
 
 
 
@@ -474,4 +473,35 @@ Pero hay otros factores que le quitan esta prioridad:
 ```
 
 ### Estacionamiento
-50 cm por delante y por detrás
+#### 50 cm por delante y por detrás y a no más de 20cm del cordón
+
+#### La moto no se puede estacionar en la vereda, tampoco puedo estacionar mi auto en la senda peatonal, tampoco puedo estacionar el vehículo en la ochava, tampoco es correcto estacionar ni detenerse en doble fila
+#### Frente a hospitales, templos sanatorios u organismos públicos debo dejar 10 metros libros de cada lado de la entrada.
+
+## Señales
+Son el idioma del tránsito
+
+1. Reglamentarias, de obligación, de prohibición: Órden específica de lo que debo o no hacer. Por ejemplo giro obligatorio a la derecha. 
+Blanco y rojo: órden. Azules y rojas: el azul me informa para quien es el exclusivo el rojo me excluye todo los demás vehículos. 
+2. Informativas: Azules y verde
+3. Preventiva: Amarillas y negras
+4. Transitorias: Naranjas, usualmente se ve cuand ohay una obra.
+
+
+#### Algunos conceptos básicos
+1. No se puede modificar la bocina
+2. El uso de auriculares está prohibido
+3. Semáforo de luz intermitente me indica precaución cruce riesgoso
+4. Giro calle de sentido único: La intención de cambio de carril se señaliza 30 metros antes. Si yo en una calle de sentido único voy a girar a la izquierda me debo colocar en la mano para la cual voy a girar, que en este caso sería a la izquierda.
+5. uso de trailer: tiene que tener chapa patente, luces de giro luces de stop
+6. Remolcar está prohibido, sólo en casos de fuerza mayor se puede hacer, por ejemplo si un vehiculo se queda en medio de la calzada yo lo puedo hacer hasta sacarlo de la calzada, eso sería un caso de fuerza mayor, lo que no se puede hacer es remolcar ese vehículo por todo posadas.
+7. giro a la izquierda en uruguay: en una avenida en donde me dan los dos semáforos en verdad como uruguay, NO puedo girar a la izquierda. Debo girar a la derecha y dar toda la vuelta por el barrio para poder transponer esa avenida.
+
+### Para rendir el exámen práctico
+1. No ir en ojotas
+2. Debo respetar rotonda y señales
+3. Debemos respetar senda peatonal y señalizar todas las maniobras
+4. Vehículo debe estar en condiciones, se controlará toda la documentación como matafuego y balizas. 
+5. Otra persona debe llevarte.
+
+Una vez aprobado el exámen práctico se tomarán las señales de forma oral.
