@@ -1,6 +1,6 @@
 +++
 title	= "Educación Vial para sacar la licencia de conducir"
-description = "Notas sobre la basura del Curso de Educación Vial"
+description = "Notas sobre el Curso de Educación Vial"
 date        = 2023-12-06T17:56:46+08:00
 #draft       = true
 tags       = ["conducir", "preguntas"]
