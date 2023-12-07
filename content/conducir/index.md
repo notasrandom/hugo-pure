@@ -446,10 +446,10 @@ Profesora: Alejandra
 Hay personas que creen que si el vehículo que va en frente me coloca la luz izquierda, me está indicando que pase, esta creencia está totalmente errónea, ya que me indica la luz de giro izquierda la inconveniencia de sobrepaso.
 Es más no existe en la ley una señal que me haga otra persona que me habilite a mi adelantamiento.
 ### Qué tengo que tener para adelantarme?
-```
+
 1. Línea discontinua.
 2. Visibilidad: para decidir cuando yo creo que es correcto, prudente y seguro adelantarme.
-```
+
 
 ### Señales para adelantarme
 1. Colocar luz de giro izquierdo cuando inicio mi maniobra.
@@ -460,7 +460,7 @@ El vehículo que está haciendo adelantando se debe mantener lo más a la derech
 #### Prioridad de paso.
 El vehículo que viene por la derecha tiene siempre prioridad de paso.
 Pero hay otros factores que le quitan esta prioridad:
-```
+
 1. Señales de pare
 2. Vehículos ferrobriarios
 3. Vehículos de emergencia 
@@ -470,7 +470,6 @@ Pero hay otros factores que le quitan esta prioridad:
 7. Cuando paso de una calle de tierra a una pavimentada.
 8. Cuando paso de una calle común a una avenida (las avenidas son de mayor jerarquía que la calle)
 9. Cuando voy a girar
-```
 
 ## Estacionamiento
 #### 50 cm por delante y por detrás y a no más de 20cm del cordón
