@@ -261,6 +261,7 @@ En cualquier siniestro vial cualquier persona que esté involucrada tanto como p
 ___
 
 ## Breve Repaso y notas que tomé del examen [https://testdeconducir.com.ar](https://testdeconducir.com.ar) (no sigue la línea de los videos).
+20 puntos se te otorgan al obtener la licencia de conducir
 **Avenida tiene más prioridad que si venís de la calle**
 
 señales transitorias, señalizan la ejecución de trabajos de construcción y mantenimiento en la vía o en zonas próximas a las mismas: verdadero (naranja)
