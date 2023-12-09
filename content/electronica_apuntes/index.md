@@ -345,9 +345,9 @@ Si tengo un cable meto la punta en uno de los cables en la pinza y me lo va a me
 ![simbología](/electronica/simbologia_2.png)
 ![simbología](/electronica/simbologia_3.png)
 Todos los componentes de la electrónica tienen un símbolo
-1. Resistencia o resistor parace una onda en forma de cierra.
+1. Resistencia o resistor parace una onda en forma de cierra. No tiene polaridad.
 Letra en esquema: R
-2. LDR: Foto resistencia.
+2. LDR: Foto resistencia. No tiene polaridad.
 Cuando le da la luz cambia la resistencia en función a la luz.
 3. Pot: Potenciometro: es una resistencia también variable, en las patitas de los extremos está la resistencia y la de la mitad varía para un lado o para el otro.
 4. Condensador cerámico: 
@@ -359,8 +359,18 @@ Interruptor codillo
 7. Pulsador
 8. Relé: lo que se vé en la imágen es una bobina cuando esa bobina se energiza el mueve este conacto que está al lado, de un lado es cerrado y el otro componente es abierto.
 9. Transformador: Recibe un voltaje y saca otro voltaje, lo puede elevar o pued bajarlo. Trabaja sobre con corriente alterna.
-10. 
-11. 
-12. 
-13. 
-14. 
+Los transformadores que hay en las centrales hidroeléctricas ellos sacan un voltaje por ejemplo 1000 voltios y eso lo elevan a 13.000 voltios eso es lo que transportan las líneas en las calles los que están más alto. Elevan los voltios para que pueda llegar a las casas a larga distancia.
+10. Diodo: 1er componente en donde nace la electronica junto con el transitor.
+11. Diodo led: especie de bombillo o iluminación, las lámparas incandecentes están prohibidas. Los florescentes también están desapareciendo porque el precio.
+12. Transistor: de baja potencia y de potencia, con el transistor se hace los circuitos integrados. 
+13. Circuito integrado
+14. Batería
+
+### Diagramas esquemáticos
+Los driagramas esquemáticos son la forma universal para representar circuitos electrónicos.
+
+Los diodos leds tienen que tener una especificación de cuantos milímetros es, si es de 1 vatio si es de 0,5 vatio si es de 3mm o 5mm
+De 1 vatio hacia abajo hacia abajo se mide en milímetros y de 1 vatio hacia adelante se especifíca por el matial??
+
+En el primer gráfico tiene una bateria pero en el 2do no.
+Simplemente yo puedo deicir que todos los componentes que se conectan al positivo deben ir como en una forma de BUS, entonces puedo colocar un palito y una bolita +3.7Voltios.
