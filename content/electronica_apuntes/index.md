@@ -627,8 +627,21 @@ Explicación en la hora 01:20:40 del video 4: [https://yt.oelrichsgarcia.de/watc
 ##### Este circuito es una fotocelda.
 Vemos como se conecta el relé, a la derecha tenemos dos contactos el que está abajo es el común y le conectamos una corriente de voltaje y una lámpara.
 
+### Como probar un relé?
+Para probar que el relé funciona tenés que poner el multímetro en continuidad que es el símbolo de internet inalámbrico. Podemos probarlo al relé en continuidad o en resistencia.
+
+ponelo en continuidad y medí entre los dos extremos de abajo y te va a dar 400 más o menos que está bien, y si medís el terminal de la mitad y un extremo superior te va a pitar si está en continuidad del otro lado no te va a medir nada. Si lo ponés en omnios (2k) te va a dar 383 más o menos la medida de la bobina y si ponés el negro en la mitad y el rojo en el extremo superior te va a medir una resistencia muy chica 0.01 y del otro lado NO nos mide NADA ( te tira 1 como resultado)
+
+lo último que se daña en este tipo de componentes es el sistema de control
 
 ### Fin del módulo 2
 
 
 # Video 5 - Módulo 5
+#### Componentes Activos
+Son aquellos que pueden controlar voltajes y corrientes o realizar amplificación. Son los principales responsables de la revolución de la electrónica moderna. Entre ellos tenemos los **diodos** , **transistores* y **circuitos integrados**.
+
+Circuitos Integrados
+Hojas de Datos
+Circuitos Impresos
+El Estaño y el Cautín
