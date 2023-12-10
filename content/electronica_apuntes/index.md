@@ -724,3 +724,5 @@ Minuto 14:30
 
 ##### Esa es la utilidad más práctica del diodo rectificador.
 Cuando viene la corriente alterna sólo me dejará pasar postiivo, el negativo no me dejará pasar 
+
+

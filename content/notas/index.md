@@ -5,6 +5,7 @@ description: "Apuntes que tomo en mi tiempo libre"
 ---
 
 Le puso demasiado enduido  en vez de tapar la rayita es como que va revocando de nuevo  
+No controló si el fijador que le dí estaba seco.
 Vos podés pasar una capa finita y después un revoqye  
 Y arriba no le puso imperniabilzante  
 Porque arriba entra agua por la pintura  
@@ -72,3 +73,5 @@ cambiar toda la tela y la goma espuma y los fletes, sólo deja la madera.
 para saber si está vacío: abrís un poco y escuchá si sale gas  
 ___  
 pintor hizo todo mal, gasista mentiroso, reparador de estufa mentiroso, veterinario tremendo chanta.  
+
+
