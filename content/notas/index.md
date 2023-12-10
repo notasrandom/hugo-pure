@@ -27,4 +27,7 @@ Siempre tengo que tener la mitad de la escalera
 Solo cuando se desconecta el neutro al apagar la luz puedo desconectar el foco sin bajar la térmica  
 Medianera pared con el vecino  
 Eso verde se llama media sombra  
-Le pinto con leche los ladrilloso  
+Le pinto con leche los ladrilloso   
+Un chorro nos preguntó 3 veces si ibamos a colaborar??  
+Tenés que salir rápido o tener un cuchillo preparado para cuando intente abrir la puerta.
+

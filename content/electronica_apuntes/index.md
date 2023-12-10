@@ -641,7 +641,86 @@ lo último que se daña en este tipo de componentes es el sistema de control
 #### Componentes Activos
 Son aquellos que pueden controlar voltajes y corrientes o realizar amplificación. Son los principales responsables de la revolución de la electrónica moderna. Entre ellos tenemos los **diodos** , **transistores* y **circuitos integrados**.
 
-Circuitos Integrados
-Hojas de Datos
-Circuitos Impresos
-El Estaño y el Cautín
+## Materiales Tipo N y P
+#### Semiconductores
+Silicio y germanio son los más utilizados.
+Los componentes como el cobre los átomos de cobre en la última línea o en el última capa el átomo de cobre tiene 1 sólo electrón entonces ese electrón es el que se va a desplazar a otro átomo para generar esa corriente que se mueve en un conductor de cobre cuando le aplicamos una fuente de voltaje.
+
+En el átomo de silicio como el de germanio tienen 4 electrones en su capa externa y eso permite hacer enlaces con otro átomos, a esto se le llama enlaces covalentes. 
+
+Cuando se mira un cristal de silicio los átomos de silicio van todos unidos.
+##### Empezaron a hacer pruebas y se crearon dos tipos de materiales uno de tipo N y otro de tipo P.
+Se crearon con un procceso químico que se llama dopaje q es inyectarle a un átomo o a un cristal de silicio un átomo de antimonio y el rojo es el átomo de bora, estos átomos en la última capa no tienen 4 electrones sino que tienen 5. 
+
+El átomo de antimonio comparte 1 electrón con el átomo de silicio entonces los dos comparten los electrones y eso crea un enlace covalente. Para compartir neesita uno para este lado y el otro para el otro lado, necesita 4 electrones que necesitan para hacer un enlace covalente con cada átomo de silicio.
+
+Y se hace una estructura que se llama red cristalino y la estrcutura natural del silicio es así, simplemente que se hace un proceso químico y le inyectan un átomo diferente al de silicio en el material tipo N (tiene un electrón de más)
+
+En el tipo P tiene 1 electrón menos.
+
+###### Los semiconductores tipo P o N por si solos no tienen mayor utilidad práctica. Para que estos materiales sean útiles deben unirse en diferentes configuraciones y es así como se crean los componentes semiconductores.
+Porque el material tipo N tiene exceso de electrones y al tipo P le faltan electrones, cuando se unen los dos hay un flujo de electrones de un material al otro creando una corriente. Entonces este material se puede comportar como un circuito abierto o uno cerrado.
+
+##### De acá nace el DIODO
+Es la unión de un material tipo P y un material tipo N
+Material tipo N: Exceso de carga de electrones (carga negativa)
+Material tipo P: Faltan electrones (carga positiva)
+
+
+La función del diodo: dejar pasar corriente en 1 sentido y bloquearla en el esentido contrario.
+El diodo es una especie de compuerta.
+
+#### Polarización del diodo.
+El diodo permite conectarlo de cualquiera de las dos formas pero si yo conecto el positivo en un terminal o al otro terminal tengo algo que se llama polarización directa y polarización indirecta.
+### Los términales del diodo tienen nombres: ánodo(tipo P- positivo) y cátodo (tipo n - negativo)
+ 
+###### Si yo conecto una fuente de voltaje y el postiivo va al ánodo quiere decir que está en polarización directa.
+#### El diodo se comporta como un conductor
+Si yo conecto el diodo al contrario o sea el positivo lo conecto en el cátodo entonces tengo polarización inversa, qué pasa en la polarización inversa? No hay paso de corriente.
+
+
+Polarización directa el positivo de la fuente del ánodo del diodo 
+Polarización indirecta el positivo de la fuente está en el cátodo del diodo.
+
+### diodo rectificador
+###### estos diosdos están diseñados específicamente para convetir corrientes AC en corrientes DC. A este proceso se le llama rectificación y se utiliza para diseñar fuentes de alimentación
+![diodo rectificador](/electronica/diodo_rectificador.png)
+
+Esta es la gráfica del funcionamiento del diodo
+desde el eje y (corriente) para adelante es voltaje positivo
+ y del eye y para atras es voltaje negativo o polarización inversa.
+
+Polarización directa: conectá el voltaje positivo al ánodo y si ese voltaje supera los 0,7 voltios la corriente empieza a subir.
+
+Si yo midiera voltaje cuando está polarización directa hay 0.7 voltios.
+Y en polarización inversa yo le puedo poner 10 voltios 40 voltios hasta que llega al voltaje de RUPTURA, que viene especificado para cada diodo.
+
+
+Para el diodo rectificador no es bueno trabajar con la parte negativa hay otros q sí.
+
+
+![diodo electrónica](/electronica/diodo__.png)
+
+La rayita que tiene hace referencia al cátodo, el otro lado es el ánodo
+
+Una forma de idenitificar los diodos "1N" , el 1N hace referencia a que es una union y el 4004 hace referencia a la especificación.   
+Para el diodo 4004 lo máximo que soporta es 1 amperio.  
+Si yo le pongo más corriente se va a quemar.  
+En el sistema europeo se utiliza BY254.  
+
+1N4001 Soporta 50V
+1N4002 Soporta 100V
+1N4003 Soporta 200V
+1N4004 Soporta 400V
+Y así hasta 0007 que soporta 1000 V
+
+Este voltaje hace refererencia a la poralización inversa.
+
+
+Una vez que el diodo empieza a conducir corriente su terminales tiene voltaje 0,7  que se llama voltaje UMBRAL 
+
+![diodo rectificador ejemplo](/electronica/diodo_rectificador_ejemplo.png)
+Minuto 14:30
+
+##### Esa es la utilidad más práctica del diodo rectificador.
+Cuando viene la corriente alterna sólo me dejará pasar postiivo, el negativo no me dejará pasar 
