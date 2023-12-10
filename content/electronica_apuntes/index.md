@@ -373,4 +373,262 @@ Los diodos leds tienen que tener una especificación de cuantos milímetros es, 
 De 1 vatio hacia abajo hacia abajo se mide en milímetros y de 1 vatio hacia adelante se especifíca por el matial??
 
 En el primer gráfico tiene una bateria pero en el 2do no.
+![sin bateria positivo negativo](/electronica/sin_bateria_positivo_negativo.png)
 Simplemente yo puedo deicir que todos los componentes que se conectan al positivo deben ir como en una forma de BUS, entonces puedo colocar un palito y una bolita +3.7Voltios.
+
+En los diagramas tengo que tener dos representaciones una es la parte simbólica, pero en cada componente yo tengo que una representacion que es como el listado. Si yo tengo dos resistencias tengo que saber el valor de cada una.
+
+#### Características
+Los componentes se representan por un símbolo
+Las conexiones se representan mediantes líneas rectas
+Para indicar una conexión entre líneas, se dibuja un punto
+Para indicar dos líneas no conectadas entre sí, se coloca un semicírculo.
+Los componentes se identifican con símbolos alfanuméricos.
+Los diagramas deben ir acompañados con el listado de componentes.
+
+A veces se cloca el número pero no la magnitud.
+Por ejemplo en los condenzadores que tienen 22 microFaradios
+
+
+#### Protoboard
+Casi todos tienen la misma configuración.
+Los puntos que van de forma horizontal van conectados y los que van de forma vertical son los buses también van unidos todos desde el inicio hasta el final.
+En la mitad hay una separación crea una separacion entre los dos grupos de columnas.
+
+El protoboard no es un componente electronico que se coloque en un diagrama.
+Se usa el protoboard porque no se necesita hacer un circuito en una tarjeta y soldarlo. Antes de montar un circuito podés probarlo en la protoboard.
+
+Por ejemplo quiero probar el sistema que activa un relevo puedo usar un protoboard y luego hace el circuito, también es fácil cambiar si es que un componente deja de funcionar.
+
+#### armado
+para armar un circuito en el protoboard solo se debe insertar los componentes electrónicos a utilizar verificando su diagrama de conexión, después conectar los puntos distantes de los componentes utilizando cables finos como los del cable UTP o cable multipar.
+
+![Positivo Negativo en la protoboard](/electronica/positivo_negativo.png)
+En la imágen el positivo está en el lado del cable rojo y el negativo en el cable negro y hay un cable que extiende el bus negativo a la parte baja del otro bus de la protoboard que es negativo, entonces directamente puedo conectar los componentes en la parte inferior. Esa es la forma de poner negativo en dos lados. También se puede hacer lo mismo con el positivo.
+
+### Precauciones
+1. Tenga a mano todos los componentes para armar el circuito porque a veces te falta algo y cuando volvés ya no te acordás el montaje que hiciste. Anotalo.
+2. No corte demasiado los componentes (las patitas). 
+3. No conecte componentes que produzcan calor.
+El protoboard es de plástico tiene el contacto metálico pero la cubierta es de plástico.
+4. No conecte cables o componentes cuyos terminales tengan un diámetro exagerado.
+Cuando el diametro del cable es muy grueso se dabará el orificio del componente y el concacto si le meto un cable más grueso se va a abrir y se va a arruinar.
+5. No monte circuitos que utilicen corriente alterna con voltajes altos.
+Porque el aislamiento que tiene el protoboard no funcionaría si el voltaje fuese muy alto.
+
+
+Hay circuitos que funcionan a 110voltios.
+Los sistemas de control de los motores que son de 110 o que son de 220, lo que hacen es tomar la onda alterna la manipulan y luego se la envían al motor, entonces esos circuitos no es recomendable montarla en protoboard porque trabajan con voltajes muy altos. 
+
+![/electronica/circuito_p.png](/electronica/circuito_p.png)
+![/electronica/circuito.png](/electronica/circuito_protoboard.png)
+### Que hace el circuito?
+Pongo el dedo sobre el LDR y se prende el LED.
+El positivo es la primera linea (está marcado con un signo más)
+El negativo es la segunda linea (está marcado con un signo menos)
+
+
+En lugar del LED puedo colocar un relevo y hacer que las luces de la calle se prendan cuando cae la noche.
+
+##### Hay que tener siempre el consumo de CORRIENTE para saber que corriente tiene que tener la batería.
+
+### Clasificación de los componentes electrónicos
+#### Pasivos
+no le aportan nada, en el sentido de que no amplifican la señal, simplemente funcionan oponíendose al paso de la corriente o al paso del voltaje. Son pérdidas.
+1. Resistor o resistencia: Componentes pasitvos, le restan a la corriente.
+Recuerden ley de ohm: la corriente es igual al voltaje sobre la resistencia. Entre más resistencia menos corriente, el voltaje es igual se resisiste a la corriente.
+
+#### Tenemos dos tipos:
+1. Resistencias fijas
+2. Resistencias variables: como por ejemplo la fotoresistencia cambia su resistencia con la luz.
+![/electonica/supercial.png](/electronica/supercial.png)
+##### Tiene un código de colores, el más usado es el código de 4 colores 
+Hay una resistencia de precisión se utiliza para equipos muy sofisticados.
+![colores resistencia](/electronica/resistencia_colores.png)
+El multiplicador es el número que le multiplo a los dos primeros.
+### La cuarta banda: Tolerancia
+Ese valor puede ser un poquito para arriba o un poquito para abajo.
+Puede variar hacia arriba o hacia abajo (es el margen de error) 5% dorado 10% plateado.
+
+#### Electromecánicos
+Pueden ser componentes que necesiten una acción mecánica externa o interna.
+Externa: alguien necesita meterle mano
+Interna: se hace desde el circuito.
+#### Activo
+nos pueden dar amplificacion por ejemplo
+
+### montaje
+montaje normal: se inserta en el circuito y lo sueldo por el otro lado 
+pero hay otros componentes que se colocan superficialmente sobre las tarjetas ese tipo de componente son de montaje superficial.
+1. Montaje de insercción también conocido como componentes trujol
+2. Montaje superficial componentes SMD
+
+
+### Codificación de resistencias
+Una resistencia tiene el siguiente código de colores, azul gris rojo y dorado. Cuál es su valor?
+
+La primera banda azul es 6, la 2da banda gris es 8, la 3era banda rojo es x100 y la tolerencia es 5% o sea x0.1.
+El valor es: 68x100=6800 omega = 6.8K omega
+La tolerancia es 6800x0,1 = 680### Codificación de resistencias
+
+
+## Ejercicio
+#### Una resistencia tiene el siguiente código de colores, azul gris rojo y dorado. Cuál es su valor?
+
+La primera banda azul es 6, la 2da banda gris es 8, la 3era banda rojo es x100 y la tolerencia es 5% o sea x0.05.
+El valor es: 68x100=6800 omega = 6.8K omega
+La tolerancia es 6800x0,05 = 340 omnios.
+
+
+### Video 4 (fin de la unidad 2)
+Una forma de ver que no hay una fuga: apagá todas las luces bajar todos los braquers y el disco del costado se tiene que quedar quieto 
+## Resistencias y Condensadores
+Si coloco más corriente del que puede funcionar un LED se puede quemar entonces se usan los resistencia. Ustedes pueden probar conectar un LED a 12 voltios y lo vas a quemar. La resistencia se usa para limitar la corriente a través del LED.
+Se puede limitar la resistencia, pero hay circuitos en donde se utlizan como divisor de voltaje.
+### Potenciómetro
+Tipo de esistencia variable que permite modificar su valor mediante el movimiento.
+##### Tipos
+![/electronica/potenciometro.png](/electronica/potenciometro.png)
+el azul cuadrado y tiene una perilla metálica estos potenciometros son de precisión.
+y el 3ero la resistencia es lineal, se usa mucho en los sistemas de sonido.
+
+### Fotoresistencia
+Varía la resistencia en base a la cantidad de luz incidente.
+
+Las fotoceldas tienen el componente Fotorrresistencia LDR internamente.
+Simplemente la atan a un circuito para que trabaje a 110voltios o 220.
+
+A veces la resistencia es simbolizada con un cuadradadito
+
+### Condensador o capacitor
+Les dan valores a la corriente para que entre a un circuito integrado.
+Aparato que almacena energía es como una batería pero de corto tiempo de retención, pero la diferencia es que un concensador dura segundos.
+Si lo dejo cargado a un condensador se descarga muy rápido. 
+#### Como se compone?
+![capacitor](/electronica/capacitor.png)
+Tiene dos láminas y un material dieléctrico, como almacena la energía? en forma de cargas electricas electrones, es un voltaje si conecto 110voltios el almacena 110 voltios si le conecto 5 voltios almacena 5 voltios. Almacena como voltaje.
+La capaidad de almacenar energía se llama capacitancia, y el valor que se da a la capacitancia es el microfaradio.
+El faradio es una medida muy grande para un condensador, entonces usamos microfaradios (uf 1x10^-6), nanofaradios(nf 1x10^-9), picofaradios(pf 10x10^-12)
+
+La energía de un rayo tiene millones de faradios
+#### Tipos de condensadores fijos y variables
+Condensadores variables en los radios había que graduarlo bien para que la emisora no se perdiera.
+Hoy en día no se usa porque las radios son digitales, se utilizan condensadores finos. Los condensadores pueden ser polarizados y no polarizados.
+
+#### Fijos y cerámicos
+##  Cerámicos
+Estos condensadores son fijos , no polarizados. Están constituidos por un disco de material cerámico y se fabrican para capacidades pequeñas, por debajo de 1uf
+Este tipo de condensadores se fabrican en capacidades muy pequeñas, casi de 1 microfaradio para abajo.
+
+Hay dos, montaje de montaje y otro de superficial.
+
+
+## Condensador cerámico
+
+![condensador ceramico](/electronica/ceramico.png)
+
+Antes era por colores pero están especificados por voltaje y por capacidad de almacenamiento que es en faradios.
+
+
+![condensador ceramico](/electronica/ceramico_.png)
+microfaradio = 10 a la -6 (se multipla por 0.000001)
+nanofaradio = 10 a la -9
+picofaradio = 10 a la -12
+
+Si quiero subir de posición me corro a la izquierda la coma y si quiero bajar me corro a la derecha.
+
+
+###### por ejemplo tenemos un condensador de 0,1 microfaradios quiero expresar esa medida en nanofaradios entonces voy a correrme a la derecha 3 posiciones la coma.
+
+* 0,1 microfaradios
+* 0,100|000
+* es decir que sería 1 y dos ceros después de la coma: 100 nanofaradios.
+
+#### Un condensador de poliester trabaja igual que un condensador cerámico
+
+### Condensador Electrolíticos
+![condensador](/electronica/condensador_electroliticos.png)
+
+Son fijos polarizados. Están constituidos por dos finas láminas de aluminio separadas por una capa de papel humedecido con un líquido llamada electrolítico.
+
+Y es mucho más fácil identificarlo pueden dicen por en la imagen 3300 microfaradios. Los condensadores cerámico y electrolítico son los más usados.
+
+
+#### Condensador electrolíticos en continua
+Al conectarle una fuente de voltaje CC no existirá ningún paso de corriente a través de él, debido al dieléctrico (aislante); sin embargo, se produce una acumulación de cargas elećtricas en sus placas.
+
+Una vez que se carga el condensador se apaga (se abre) y no deja pasar corriente de un lado al otro.
+![condensador electrolítico en continua](/electronica/condensador_ele.png)
+
+### Condensador electrolíticos en alterna
+Cuando un condesadador es conectado a un voltaje alterno, en el primer medio ciclo el condensador se carga y en siguiente medio ciclo se descarga para cargarse con polaridad contraria.
+En corriente alterna se abre, en continua no. En corriente alterna deja pasar la corriente. (es como una impedancia es como una resistencia)
+
+### bobina o inductor
+se utiliza en circuitos de radiofrecuencia
+obtaculisa el paso de corriente
+en el caso del condensador: almacena energía en forma de corriente.
+en el caso de la bobina: almacena energía en forma de corriente.
+el condensador son similares porque almacenan energía simplemente el voltaje en la bobina es 0 y la corriente en el condensador es practicamente 0, el condensador se carga lento y se usan para que no hayan cambios bruscos de voltaje. 
+
+La inductancia se utilizan para cambios bruscos de corriente, en arranque de motores, para que no haya consumo de corrientes repetentinos.
+
+Se usa para crear circuitos occilantes.
+La bobina cuando la atravieza una corriente genera un campo magnético.
+
+Nikola Tesla hizo torre tower para transmitir energía inalámbrica.
+
+## Componentes electromecánicoss
+Son componentes que requieren algún accionamiento mecánico externo o interno, como la luz como el calor o un movimiento mecánico.
+#### Conductor
+1. Dos tipos. 
+Cable:  un solo conductor grueso
+Alambre: varios conductores flexibles
+también tenemos como cable de fibra óptica que llevan una luz o cables coaxiales que son cables telefónicos. Los conductores se identifican mediante un calibre: se usa AWG se utiliza desde Canadá hasta Argentina.
+![cables](/electronica/cables.png)
+Si yo compro un cable que está con norma AWG y me dice que el cableado 16 tiene 3.7 amperios EL VA A RESPETAR eso. Pero si compro en cualquier lado el amperaje máximo seguramente va a ser de 1 amperio y cuando lo conectes se prenderá fuego el cable porque no aguante 3 amperios.
+
+La cubierta de los cables tienen protección para que cuando se caliente no se prenda fuego.
+
+Esa es la diferencia entre cables que cumplen la norma y los que no.
+
+Hay algunos cables que vienen en una aliacion de cobre con aluminio y son una basura.
+Los mejores cables: es todo de cobre.
+
+2. **Interruptor**  
+![interruptores](/electronica/interruptores.png)
+
+Son componentes que permiten o interrupen el paso de CORRIENTEN por un circuito.
+El interruptor 4 viene con una capacidad de corriente (1 o 2 amperios)
+![interruptores](/electronica/interruptores_circuito.png)
+El primer interruptor lo apretás y genera el paso de corriente y en el otro lado es un relé (el relé está dentro de los interruptores y es mecánico)
+3. Relé
+![electrónica relé](/electronica/rele.png)
+Es una especie de interruptor electromecánico, conformado por una bobina y unos contactos que hacen de interruptor, pero el accionamiento de ese interruptor lo hace una bobina interamente el relay tiene una bobina q al darle voltaje acciona los contactos, tiene 3 contactos uno común y otro cerrado (estan unidos el cerrado y el común) y otro normalmente abierto. Entre el contacto abierto y el común no hay paso de energía.
+
+Con el multímetro se puede medir la bobina casi siempre estará por 300 omnios 400 omnios, un contacto me va a medir cerrado y el otro contacto me va a medir abierto. Un contacto me mide que la resistencia es de 1 2 omnios y el otro contacto no me mide resistencia. Y en la bobina me mide 200, 300 400 omnios dependiendo de la bobina.
+
+En las letras que tiene el relé me dice que es de 12 voltios, y me dice que la capacidad es de 10 amperios a 250Voltios
+O sea yo puedo conectar una bombilla a corriente alterna y funciona a 200 voltios y q tenga un consumo de 10 amperios.
+Lo mismo para 125 voltios - 10 amperios.
+Lo mismo para 28 voltios - 10 amperios.
+Lo mismo para 30 voltios - 10 amperios.
+
+#### Por qué nosotros no recomendamos conectarle cargas tan altas?
+Cuando los electrones quieren pasar todos a la vez se genera fricción y se produce chispas. Si laburás con corriente muy altas en 6 meses ya se daña.
+10 amperios es la capacidad máxima.
+Si yo le pongo 10 amperios cada vez que esta palanquita pasa y va al otro lado es un golpe y en realidad lo q hace es un corto en el contacto (chispa) 
+los contactos soportan 10 de amperios pero para prolongar la vida útli es recomendable trabajarlos a 50% de su capacidad máxima.
+
+Explicación en la hora 01:20:40 del video 4: [https://yt.oelrichsgarcia.de/watch?v=k0Mtr-Wc4AE&list=PLKxOqr8Lfq-zJkoot8vtQgmILOi1fAEQR&index=3](https://yt.oelrichsgarcia.de/watch?v=k0Mtr-Wc4AE&list=PLKxOqr8Lfq-zJkoot8vtQgmILOi1fAEQR&index=3)
+
+![rele circuito](/electronica/rele__.png)
+
+##### Este circuito es una fotocelda.
+Vemos como se conecta el relé, a la derecha tenemos dos contactos el que está abajo es el común y le conectamos una corriente de voltaje y una lámpara.
+
+
+### Fin del módulo 2
+
+
+# Video 5 - Módulo 5
