@@ -87,3 +87,27 @@ correa de distribución se cambia cada 40.000 km
 Aceite, el filtro de aceite filtro de nafta, pastilla de freno y la correa de distribución, cambio de gomas
 
 
+Soporte de las ruedas de los amortiadores se hace la jaula
+la idea es que el habitaculo no se deforme
+teoricamente es así, las estructura pero no para volcar.
+no se achata si volcás
+
+que tenés que hacer para tumbar el auto?
+cuando vás rápido vuelva siempre si te tocan
+
+___
+cuando pizás la banquina tenés que bajar la velocidad y quedarte
+y después de volvés a la calle porque si querés volver inmediatamente
+se te cruza el auto, y ahí cuanod se pone de costado el auto 
+empieza volcar de costado 
+
+### problemas de conducir en ruta
+1. como manejas vos
+2. como maneja el otro
+3. la velocidad
+
+#### chocá un montículo de tierra eso y desacelerás como una pared
+se corría en semi-permanente (son calles y son circuitos)
+son calles normaels y después se convierten en circuitos los domingos
+
+

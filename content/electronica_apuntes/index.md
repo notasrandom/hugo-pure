@@ -841,5 +841,23 @@ según la ley de ohm
 resistencia = voltaje sobre corriente = 6 voltios sobre 20 miliamperios
 330 omnios o 270 omnios
 ```
+si tengo 1 resistencia y 1 diodo led
+
+```text
+Resistencia = Voltaje / Corriente = 6v / 20 m A
+R = 6 / 0,02 = 300 omnios
+```
+si tengo 1 resistencia y 3 diodos leds
+
+No se consigue 300, se pueden conseguir 330 omnios o 270 omnios.  
+No va a variar mucho funcionan los dos.
+
+![electronica diodos](/electronica/diodos_en_seriee.png)
+
+I = V sobre R = 6v sobre 510 
+I = 0,011
+I = 11 mA (miliamperios)
+
+
 
 

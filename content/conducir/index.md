@@ -513,3 +513,9 @@ Blanco y rojo: órden. Azules y rojas: el azul me informa para quien es el exclu
 5. Otra persona debe llevarte.
 
 Una vez aprobado el exámen práctico se tomarán las señales de forma oral.
+
+
+
+
+
+

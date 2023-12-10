@@ -71,6 +71,7 @@ fuente de precisión y patrón de tensión
 cambiar toda la tela y la goma espuma y los fletes, sólo deja la madera.  
 ### cambio de garrafa: cilindro de 45  
 para saber si está vacío: abrís un poco y escuchá si sale gas  
+#### sistema de riego
 ___  
 pintor hizo todo mal, gasista mentiroso, reparador de estufa mentiroso, veterinario tremendo chanta.  
 
@@ -79,3 +80,35 @@ pintor hizo todo mal, gasista mentiroso, reparador de estufa mentiroso, veterina
 fijador pasó por toda la pared sólo cuando la pared es nueva
 enduido gastó 1 kilo y pidió más.
 y usó impermiabilizante
+
+
+
+##### como distribuir energía de la calle a la casa
+viene un cable aereo y fusible aereo
+barra de una fase 1 y barra fase 2.
+barra: un hierro o planchuela 
+
+fusible: un cable si rompe corta podés tener monofásico o trifásico.
+monofásico: viene un vivo o fase y un cable neutro
+el neutro es el mismo en todo y el otro podes distribuirlo con térmica  por eso se usa barra para dividirlo a varios cables.
+
+#### toma corriente:
+neutro y vivo
+
+
+___
+### cagadas que se mandó el pintor
+
+puso fijador por toda la pared
+endido gasto 1 kilo y pidió más, no usó impermiabilizante
+
+Este pintor es medio malo, lo único que hizo fue pasar el fijador (sólo se pasa cuando la pared es nueva) y le pintó no tuvo que limpiar la pared.
+ni miró si tenía membrana y como estaba el techo ni impermiabilizó.
+
+Para poner la membrana tenés que usar soplete 2 garrafas de 10 kilos.
+
+la mayoría de la gente apoya la membrana (no la instala bien) entra el agua en la esquina y corre todo por debajo.
+Si se corre la pared tenés que poner impermiabilizante primero.
+___
+
+el electricista en la escuela se compró una camioneta de 4x4 de tanto que jodió a los giles (estafó)
