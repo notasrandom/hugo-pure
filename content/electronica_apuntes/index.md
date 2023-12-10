@@ -860,4 +860,6 @@ I = 11 mA (miliamperios)
 
 
 
+#### Diodo led se lo mide en diodo (continuidad)
 
+## Si no trae para medir diodos no lo compres

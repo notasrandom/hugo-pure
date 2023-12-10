@@ -112,3 +112,26 @@ Si se corre la pared tenés que poner impermiabilizante primero.
 ___
 
 el electricista en la escuela se compró una camioneta de 4x4 de tanto que jodió a los giles (estafó)
+
+
+___
+vos no recibo de patente sólo de pago y el comprobante de pago no dice de que auto es
+
+___
+no podía pagar por ninguna forma la patente y tuvo que dictarle el codigo de barra el tipo para q pueda pagar la patente
+el cupón de tasa municipal y el de inmobiliaria puedo bajar, el de pantente no puedo bajar. porque la municipalidad no me da ese servicio
+
+
+
+
+
+poner la fija ip puerta de enlace configurar vlan cambiar autonegociacion  del puerto ip mascara de red, asociar la ip al puerto comandos para guardar cual es la ip por vlan cual es la mac 
+
+la nokia le dice a telecom no anda tu transmisión y telecom le dice no , tu equipo está mal configurado
+tengo uqe ir pner un lan switch y configurarlo como si fuera un equipo de telefonia movil (tengo que simular un equipo nokia) y ahí probar si anda o no la transmision, si la transmision anda el problema es de nokia y si no anda tenemos que trabajar hasta que funcione la transmision de telecom, tenes que esperar hasta que pase el ping, le tenés uqe medir la fibra optica, tenés que configurar la línea
+
+
+medís la fibra, hacés loop, tenes que tener instrumento conectar tener energía, si es de 48 voltios, tenes que tener prolongador 
+
+despues de dos años le hacen conectar los routers y ni le dicen como hcerlo
+
