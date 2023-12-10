@@ -1,5 +1,5 @@
 ---
-title: "Mis boludeces"
+title: "Notas"
 date: 2023-12-08T23:16:54-03:00
 description: "Apuntes que tomo en mi tiempo libre"
 ---
