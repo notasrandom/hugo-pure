@@ -723,6 +723,123 @@ Una vez que el diodo empieza a conducir corriente su terminales tiene voltaje 0,
 Minuto 14:30
 
 ##### Esa es la utilidad más práctica del diodo rectificador.
-Cuando viene la corriente alterna sólo me dejará pasar postiivo, el negativo no me dejará pasar 
+Cuando viene la corriente alterna sólo me dejará pasar postiivo, el negativo no me dejará pasar , porque es como si el diodo estuviera inverso.
+
+Sirve para evitar que la gente conecte al revez un cargador a un equipo electrónico, oprque hay componentes que no soportan voltaje inversos. Hay componentes como un circuito integrado que si conecto 5 voltios al revez se quema. Entonces ese diodo te protege.
+
+El diodo sólo deja pasar cuando yo le conecto el positivo al ánodo y al cátodo el negativo.
+Si le conecto al cátodo la entrada de una corriente me la va a bloquear.
+
+### Diodo zener
+Cuando es polarizado inversamente, su corriente es cero hasta que alcanza un voltaje de referencia Vz. A partir de ese momento el diodo conduce corriente y la tensión entre sus terminales es constante e igual a Vz.
+
+Está diseñado para trabajar en la zona de ruptura, si lo conecto en polarización directa funciona como un diodo rectificador, pero si lo conecto inversamente entrará en la zona de ruptura, a diferencia de los diodos retificadores este diodo no se daña.
+
+
+Explicación en el minuto 20:20 del video 5 [https://youtube.com/watch?v=QzeGroGeVXA](https://youtube.com/watch?v=QzeGroGeVXA)
+
+`
+Por ejemplo si conseguís diodos zener de 3,7 voltios el símbolo del diodo zener es parecido al diodo rectificador pero tiene las lineas suavizadas, como viborita.
+Crea un voltaje en los terminales, el voltaje empieza a subir a 1 voltios no pasa nada a 2 3 no pasa nada, cuando llega a 5 voltios entra a la zona de ruptura.
+`
+
+Cuando el positivo le llega al cátodo se llama polarización inversa.
+#### El crea una referencia de voltaje , el voltaje que supere los 5 voltios el lo estabiliza a 5.
+Si yo tengo 10 voltios, el sólo me va a dejar 5 voltios.
+Sirve para regular/estabilizar un voltaje.
+
+La corriente máxima de un diodo zener en general es 5 miliamperios.
+
+Los diodos zener vienen por vatillaje ,tenés de 1 vatio de medio vatio, tiene que ver con la corriente que deja pasar. En donde P=VxI , y la I=P sobre V. Ahí se puede sacar la corriente máxima que soporta el diodo.
+
+
+### LED (Light Emmiting Diode)
+Son diodos construídos con arseniuro de galio fosfato (GaAsP) y emiten luz cuando se conectan en polarización directa.
+#### Antiguamente era
+una resistencia que se calentaba
+
+Usa fotones, estas particulas que se llaman fotones, es el mismo efecto que se utlizan para los paneles solares, es el efecto contrario.  
+En el panel solar los fotones entran a un material semiconductor y se transforma en corriente y bueno ahora son unos electrones que circulan de un lado a otro y se produce un fotón.  
+  
+# Los leds similitud con los paneles solares  
+### LED  
+Unos electrones que circulan de un lado al otro y producen un fotón  
+### Panel solar  
+Unos fotones que llegan y se transforman en electrones.  
+  
+![led](/electronica/led.png)  
+### El diodo led tien dos capas de material P y N  
+  
+## Que es lo diferente a la bombilla de edison?  
+Se puede producir en toda la gama de colores, estos son creados por un material semiconductor a señuro de galio sulfatado  
+  
+### Terminales led  
+La terminal más corta es el cátodo (-)    
+La parte plana del encapsulado indica el cátodo (-)    
+La parte más grande en el interior es el cátodo (-)    
+Medir con el multímetro en el rango de diodos    
+  
+El cátodo es más corto que el ánodo  
+  
+La parte plana del LED es el cátodo  
+Y la parte interior de un led el contacto más grueso o más grande es el cátodo.  
+  
+Una bombilla emite más calor que luz, de la energía que le entrego a la bombilla el 80% se va en calor y 20% se va en luz.  
+Por eso antes las bombillas eran utilizadas para hacer licuadoras, calentadores para criar pollos, las usaban como calentadores, porque producían más calor que luz.  
+  
+#### Los rayos catódicos fueron un boom cuando se crearon  
+pero ahora es todo led  
+incluso las lámparas florescentes que fueron un reemplazo de las bombillas incandecentes, también están dejando de fabricarse, ya es casi todo LED.  
+  
+#### Protección de LED  
+Los LED deben protegerse con una resistencia en serie, para limitar su corriente a un valor seguro. También deben protegerse contra voltajes inversos.  
+  
+  
+##### Propiedades de los leds  
+Para que emita luz debe poralizarse en corriente continua, en polarización no funciona. Polarización directa: es decir cuando conecto el positivo al ánodo y el nagativo al cátodo.  
+  
+  
+Hay que controlar la corriente que atraviesa en un led, porque los leds tienen una corriente específida, en este caso trabajan entre 20 miliamperios y 30 miliamperios. Si coloco menos corriente puede prender pero me va iluminar menos.   
+Los leds al igual que los diodos rectificadores, se activan a cierto voltaje. De acuerdo al color de led determina el voltaje a que pueden manejar, están en un rango de 1,82 voltios y a 3 voltios  
+  
+  
+##### Un led de 4 5 voltios ya no está en ese rango  
+La tecnología led está en el rango de 2 a 3 voltios  
+y la corriente está entre 20 y 30 miliamperios.  
+  
+  
+#### Protección de LED  
+Para calcular la resistencia, se resta el voltaje de LED (2V aprox.) al de la fuente. Por ejemplo si el voltaje de la fuente es 12 V, entonces el voltaje de la resistencia es 10V. Luego se ysa la ley de ohm.  
+  
+Si excedo de 3 voltios se puede quemar, si conecto polarización inversa con 5 voltios se quema.  
+  
+![protección led](/electronica/proteccion_led.png)  
+Como es un circuito serie la corriente es la misma para todos los componentes y el voltaje se divide. Entonces yo a la fuente principal le resto los 2 voltios y nos va a quedar que la resistencia van a quedar 10 voltios.  
+  
+Y sabemos que la corriente que circula por el led va a ser de 20 miliamperios.  
+
+```
+V=IxR
+R = V sobre I = 10 V sobre 20 mA
+Resistencia = 10 V sobre 0,02 amperes
+Resistencia = 500 omnios (omega)
+```
+
+No se consigue 500, se pueden conseguir 510 omnios o 470 omnios.  
+No va a variar mucho funcionan los dos.
+
+### Como conectar dos leds en SERIE
+![electronica diodo leds en serie](/electronica/diodo_leds_serie.png)
+
+##### Como calcular para una tira de LED
+Sabemos que cada diodo necesita activarse con 2 Voltios
+##### Cual es el voltaje que va a caer en la resistencia?
+12 Voltios menos 6 voltios
+
+según la ley de ohm
+```
+resistencia = voltaje sobre corriente = 6 voltios sobre 20 miliamperios
+330 omnios o 270 omnios
+```
 
 

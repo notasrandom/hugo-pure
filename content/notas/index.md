@@ -75,3 +75,7 @@ ___
 pintor hizo todo mal, gasista mentiroso, reparador de estufa mentiroso, veterinario tremendo chanta.  
 
 
+
+fijador pasó por toda la pared sólo cuando la pared es nueva
+enduido gastó 1 kilo y pidió más.
+y usó impermiabilizante
