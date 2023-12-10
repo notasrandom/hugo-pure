@@ -31,3 +31,44 @@ Le pinto con leche los ladrilloso
 Un chorro nos preguntó 3 veces si ibamos a colaborar??  
 Tenés que salir rápido o tener un cuchillo preparado para cuando intente abrir la puerta.
 
+#### reparaciones y mantenimiento de casa
+##### calefon:
+termocupla desarme toda válvula, cambie diagrama. Arrín.
+#### plomería:
+cambio de cuerito, cambio de vasta
+#### cafetera:
+cambio de resistencia
+#### microondas:
+cambio el plato, y se sacó el carbón de la boca.
+#### bomba de agua:
+cambio bobinado
+#### heladera
+cambio de gas, capilar, cable con pérdida
+### cambio de enchufes
+#### reparación plancha
+#### piso como hacerlo
+contrapiso, carpeta y plegado conectar la cloaca
+#### construcción básica casa
+1. poner encadenado
+2. Levantar muro
+3. Revoque 
+4. Compatar tierra, contrapiso, cemento.
+5. Cañería, desague.
+6. Instalación eléctrica.
+7. Pintura 
+
+### construcción parte de arriba casa:
+se levantó pared techo, caños de todo tipo, se levantó caños de teléfono, televisión, se puso piso, ventana, puerta, inodoro, bidet, bañería pileta, la cocina bajo mesada, la lasena, puerta (pintado , cerradura , mantener la madera colocar rejas) parrila (estructura)
+#### Portón eléctrico
+materiales: motor, control, varilla coscada, dos brazos de aluminio, rulemán, conectado con un carrito.
+
+### freezer
+desagotar, cambiar enchufe
+### tesis:
+fuente de precisión y patrón de tensión
+#### tapizar sillon y sillas:
+cambiar toda la tela y la goma espuma y los fletes, sólo deja la madera.
+### cambio de garrafa: cilindro de 45
+para saber si está vacío: abrís un poco y escuchá si sale gas
+___
+pintor hizo todo mal, gasista mentiroso, reparador de estufa mentiroso, veterinario tremendo chanta.

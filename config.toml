@@ -2,12 +2,12 @@ baseURL        = "https://notasrandom.github.io/"
 title          = "Notas random"
 languageCode   = "es-ar"
 hasCJKLanguage = true
-paginate       = 4
+paginate       = 150
 copyright      = "©2023"
 
 [params]
   description = "Mis Notas"
-  summaryLength = 70
+  summaryLength = 1
     
 
 [menu]
@@ -45,7 +45,7 @@ copyright      = "©2023"
 
 # Following configs need to be copied to the main site config
 
-pluralizeListTitles = false
+pluralizeListTitles = true
 
 [markup]
   [markup.highlight]
