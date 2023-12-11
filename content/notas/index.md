@@ -142,3 +142,17 @@ despues de dos años le hacen conectar los routers y ni le dicen como hcerlo
 cambio la baranda  y pinto la reja
 la luz aumentó 140% durante el año
 
+
+
+le entra agua a departamento de agustina
+
+
+### NUNCA le pages al pintor la mitad pagale al final. Son tremendos garcas, le pagás y desaparecen.
+
+
+### trabajo
+me hicieron perder el tiempo de 5 placas 1 solamente funcionaba.
+
+
+
+

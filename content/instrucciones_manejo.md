@@ -111,3 +111,7 @@ se corría en semi-permanente (son calles y son circuitos)
 son calles normaels y después se convierten en circuitos los domingos
 
 
+
+
+### Cuando ponés el freno de mano en primera apretá el embrague
+

@@ -883,3 +883,313 @@ Casi el 95% de la energía que entra el led se convierte en luz
 
 ### Video 6
 Vimos como medir si no sabíamos cual era el cátodo y el ánodo con un multímetro se podía medir con la función de diodo
+
+
+### Medir diodos con multímetro
+escala de multimetro función de diodo, y el rojo en el ánado oy la punta negra en el catodo, si lo pongo alrevez no pide nada o mide .OL
+
+### Display 7 segmentos
+Diodos de 7 segmentos
+
+internamente cada segmento es un led, tiene 7 leds.
+Se puede formar los números de 0 a 9, 
+![/electronica/segmentos](/electronica/7_segmentos.png)
+
+internamente hay un punto común , todos los cátodos van conectados a uno solo y ánodo común el positivo es común y en el cátodo común el negativo es el común
+
+
+de esto evolucionó a las pantallas leds
+
+#### led rgb (led de 3 colores red green blue)
+comienzo de las pantallas led 
+
+montaje normal y montaje supercifial
+
+cátodo común y le inyecta voltaje por el color de cada uno
+
+### como puedo hacer que el rojo no brille tanto?
+
+cuando tengo los 3 leds prendido me genera el color blanco
+
+emite fotones luminosas y el especto de luz es una longitud de onda a la que ese foton se está radiando.
+
+
+#### led smd 3528
+tamaño de led: 3,5mmx2,8mm  
+voltaje: 2,8 - 3v  
+corriente: 20mA  
+luz suave ideal para interiores  
+
+![led3528](/electronica/led3528.png)
+en la gráfica en donde tenés la linea separado de positivo negativo en ambos lados AHÍ se corta la tira.
+
+
+cada sección de esa consumirá 20 miliamperios a 12 voltios  
+por ejemplo en 1 metro hay 10 secciones entonces son 200 miliamperios
+
+3528 hace referencia al tamaño que tiene la tira de led.
+
+
+#### led smd 5050 
+
+![led3528](/electronica/led5050.png)
+Tamaño: 5mmx5mm
+Voltaje: 2,8 -3v
+Corriente: 60mA
+Luz brillante para uso comercial y residencial
+
+
+Vemos que este led tiene varias pines consume un poco más de corriente, y se le coloca a cada led una resistencia, todos los 3 leds se colocan en serie el rojo con el rojo el verde con el verde y a cada uno se le coloca una resistencia, no es que cada led es un montaje superfical.y a cada uno se le coloca una resistencia, no es que cada led es un montaje superfical.
+
+Cada color del led viene con una resistencia
+
+
+### diodos led de 1 vatio 
+consumen mucha más corriente, generan mucho calor por lo que hay colocar unas placas de aluminio para dicipar todo ese calor.
+
+
+#### cuando se vende la cintas leds te dicen , vas a necesitar tanto voltaje y tanta corriente
+
+### alimentacion led
+se volvieron populares no solo por su durabilidad y su iluminocidad, 50.000 horas funcionamiento continuo  (15 a 20 años que dura un bombillo led)
+
+#### cuando se daña el led
+
+![alimentacion led](/electronica/alimentacion_led.png)
+el led no se daña por lo general se daña la fuente la fuente de voltaje que tiene ese led.
+
+cuando lo tengo a un ciclo de 80% y 20% abajo el led se percibe igual
+estos mismos utilizan los red rgb para combinar los colores
+
+
+##### transistor
+Inventado en 1947, es el componente más importante de la electrónica morderna ya que todos los circuitos integrados se fabrican con transitores.
+
+Antes de los tansitores existian tubos de vacio, eran componentes que podían amplificar corriente.
+Pero eran gigantes esos componentes.
+
+
+
+Cuando se inventó el transistor se logró meter todo eso que hacía el tubo de vacío en algo pequeño.
+
+tiene 3 terminas la resistencia varía en dos terminales de eso y tienen una terminal común que es donde se le puede aplicar un voltaje o una corriente y con eso yo controlo el vlaor de la ressitencia que hay entre esos dos componentes.
+
+
+cuando nació el transisitor nació el circuito integrado.
+los sisstemas de amplificadores se usa transitores, controlar rele ups inversores sistemas soles fuentes de alimentacion son en base a transistores, fuentes de corriente, cantidad de aplicaciones.
+
+
+### tipos de transistores
+Transistor Bipolar (BJT) y Transitores efecto de campo (fet y mosfet)
+y otra familia que es un híbrido que entre bjt y fet es son igbt que es una combinación entre los dos.
+
+
+![transistores](/electronica/transistores.png)
+por lo general los igbt se usan en sistemas de potencia para pequeñas señales sobre todo en sistemas de amplificadore para elevar un microfoto, o para que no se caiga el voltaje.
+si yo subo la corriente, el voltaje bajará.
+si pido más voltaje, la corriente se baja.
+
+
+#### los transistores bjt son de potencia
+#### los transistores de efecto de campo (fet) se utilizan como transistores de potencia 
+aca con un voltaje puede manejar la corriente
+con una corriente yo manejo una corriente
+
+
+### transistores bjt
+Son dispositivos semiconductores formados por una apa de material P en medio de dos capas de material N (NPN) o una capa de material N entre dos capas de material P (PNP).
+
+
+![bjt](/electronica/transistores_bjt.png)
+El material que va a la mitad se llama base
+El material diodos extremos se lo llama colector y al otro emisor
+
+#### Como saber si es NPN o PNP?
+PNP quiere decir penetra 
+NPN no penetra
+
+#### identificacion tansistores bjt
+en este caso comienza por 2N (sistema matericano) 
+2N : Son dos uniones que tienen, es como si fueran dos diodos
+
+
+#### 2N3904: 3904 es una referencia a un diodo
+
+siempre el lado en donde está la flechita es el emisor y el lado contrario es el conector.
+
+
+### encapsulado
+encapsulado metálico
+encapsulado plástico
+encapsulado combinación entre ambas
+
+
+Sirven para acoplarlo metalico sirve para encapsularlo a otra estructura metálica (disipador) para que discipe calor y se dañe.
+
+
+
+
+![encapsulado](/electronica/encapsulado.png)
+Se coloca para proteger de la humedad lo único que sale son los pines 
+
+### medir transistores con multímetro
+
+#### multímero en diodo y medir transitor
+Minuto 41:49 Video 6
+el transistor tiene dos uniones la unión pnp y npn hacia arriba y hacia abajo cuando coloco positivo en la base la base es el B y el emisor es el negativo. Si mido al contrario no me mide nada.
+
+
+
+![emisor](/electronica/encapsulado.png)
+![colector](/electronica/encapsulado.png)
+
+Siempre el emisor nos va a marcar un poquito más
+
+Si mido en los dos extremos no me marcará nada porque los dos materiales N no están vivos no hay union.
+Si ponés eel negativo en la mitad, no me va a medir nada tampoco.
+
+
+#### transsistores polarización bjt npn
+Los transistores al igual que los diodos necesitan polarizarse tener una alimentación, la primera polarización va entre la base y el emisor y la segunda va entre el colector y la base.
+
+
+el colector tiene que tener más voltaje que en la base
+### en los pnp es al reves
+
+la polarización de base emisor es polarización directa
+la polarizacion del conector base es polariación inversa
+
+
+### polarización bjt - npn
+![3modos](/electronica/3modos.png)
+el transistor tiene 3 modos de funcinoamiento 3 areas
+### saturacion
+### amplicación
+### corte
+
+### amplificacion
+entra una corriente de 10 microamperios saca una replica igual pero de 10 miliamperios o sea la amplifica 10 veces, si es en corriente alterna saca la replica identica de la onda de la freuncia pero con más corriente
+
+entre el colector y el emisor hay un voltaje, después de que yo recupero este voltaje, la corriente teniendo la corriente de base de 40 microamperios .
+
+Con 40 microamperios en la base yo puedo manejar 4 miliamperios en el colector. Son muy chicas estas pequeñas pero para los micrófonos son gigantes.
+
+#### Si yo tengo un voltaje entre colector y emisor de 10 voltios, 40 microamperios de corriente en la base puedo manejar 4 miliamperios en la corriente del colector. Es decir, la corriente de 40 microamperios se está amplificando a 40 miliamperios. La estoy amplificando 100 veces y la estoy mandando por el colector.
+
+### corte
+En corte quiere decir que en la base la corriente es casi 0 y el voltaje es alto.  Está abierto.
+#### Entonces que quiere decir eso?
+Que como la corriente base está en 0 la corriente del colector está en 0 también. 
+El transistor es como si fuera un circuito abierto.
+### saturación
+Cuando estoy en la linea de saturación la corriente del colector se va a disparar al nivel que yo lo maneje pero el voltaje entre el colector y el emitor se va acercando a 0. 
+
+Lo que estamos diciendo es que con una corriente en la base yo controlo l acorriente que circuila en colector.
+
+
+#### Los más usados son corte y saturación
+porque la electronica difital ha tenido más avances
+
+### TRANSISTOR COMO AMPLIFICADOR
+Cada tanssitor tiene un factor de amplificación, por el cual se multipla la corriente de base para dar como resultado una corriente de colector.
+
+![amplificador](/electronica/transistor_como_amplificador.png)
+
+En la base viene una señal alterna como un microfono, y a la salida del colector tiene una señal alterna pero amplificada.
+El factor de amplificación de los transistores se lo conoce se representa con la letra beta en griego.
+
+
+```equation
+I_c = \beta * I_B
+```
+La corriente del colector es igual al factor de amplificación beta * la corriente de la base
+
+
+### dato
+En los primeros multímetros digitales tenían una fucnín en donde metía el transistor y el multímetro medía el factor de amplificación
+
+hoy no se usa mucho, los manuales de los transistores ya vienen con un rango específico no se miden,
+
+los transistores no se usan tanto para hacer amplificadores porque ya hay circuito integrado, entonces los multimetros modernos ya no traen esa función
+
+hoy no se usa mucho, los manuales de los transistores ya vienen con un rango específico no se miden,
+
+![punto_saturacións_corte](/electronica/punto_de_saturacion_corte.png)
+
+### para medir
+mete el transistor en la ranura de npn o pnp en el transitor y ponelo en **hfe**
+
+## transistor interruptor electrónico
+en este modo de trabajo el tansistor debe trabajar en la región de corte y saturación
+
+#### punto de corte
+```
+V_ce = V_cc
+I_c = 0 (la corriente del colector es 0)
+```
+#### corte
+como no hay corriente es como si fuera un circuito abierto
+
+Y el voltaje de colector emisor es igual al voltaje de cc 
+
+#### cuando en una resistencia no hay flujo de corriente, el voltaje que yo mido en la reistencia de 1 lado es el mismo  voltaje que mido en el otro lado
+
+
+el voltaje es una fuerza y la corriente es un flujo de electrones.
+
+### saturación
+En el mismo circuito el voltaje y el corte
+### punto de saturación
+```
+V_cc = I_c * R*c
+V_ce = 0
+```
+Es decir Voltaje entre emisor y colector es 0
+Para medir un voltaje 0 en dos terminales quier decir que hay total conducción, el emisor está conectado al negativo y el colector al positivo. Si el voltaje es 0 la corriente está pasando y están unidas las dos puntas.
+Y voltaje cc es igual a la corriente del colector por la resistencia del colector.
+
+#### alarmas
+![](/electronica/alarmas_colector_abierto.png)
+las pgm de las alarmas son salidas a transistores, por lo general son transistores npn que son los más usados, y las salidas son de "colector abierto", es decir está desconectado yo tengo que conectarle una carga  o un bombillo o una sirena o un motor, entre ese punto que sale y una fuente de alimentación, es como si fuera una resistencia.
+
+Así funciona esta sailda de colector abierto.
+
+Los sistemas de las cámaras la salida de alarmas funcionan así también con colector abierto.
+
+#### por que se utilizan este tipo de salidas?
+porque son muy pequeños, son transistores muy chicos y son fáciles de conectar, pero si no sabés conectar esa salida porque la podés conectar a voltaje muy alto o podes ponerla en corto.
+
+![](/electronica/circuito_amplificacion.png)
+Vamos a suponer que este circuito está trabajando en amplificación
+
+En amplicación la corriente del colector es igual al beta por la corriente de la base.
+![](/electronica/circuito_electronica_base_.png)
+Y yo conecto un diodo led y sé que ese diodo necesita 20 miliamperios
+
+Al igual que los diodos (entre la unión pn) ese voltaje es de aproximadamente 0,7 voltios
+
+Hora 1:10:37 del video 6
+Como yo se que eun voltaje es 0,7 yo puedo calcular un voltaje de la base
+
+El voltaje de la resistencia de la base es igual a 5 voltios menos 0,7 voltios y es igual a 4,3 voltios
+Y con eso puedo calcular la resistencia de la base
+
+
+Lo que veíamos en la gráfica, el transistor se va a saturación cuando alcanza 0,7 voltios.
+
+Vamos a suponer q el beta de este transistor es igual a 100
+\beta = 100
+
+```
+I_c = \beta I_b
+```
+Si despejo:
+
+```
+I_b = I_c sobre el beta
+```
+
+```
+I_B = 20mA sobre 100 = 0,2 mA
+```
+Entonces nos damos cuenta que con 0,2 miliamperios que pasarán por la corriente voy a controlar 20 miliamperios que van a pasar por arriba.
