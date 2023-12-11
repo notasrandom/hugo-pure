@@ -858,8 +858,28 @@ I = V sobre R = 6v sobre 510
 I = 0,011
 I = 11 mA (miliamperios)
 
-
-
 #### Diodo led se lo mide en diodo (continuidad)
+![led](/electronica/proteccion_del_led_.png)
+
+## Tiras led
+
+![led](electronica/led_en_paralelo.png)
+
+También tienen referencias y voltajes que manejan
+
+
+Entre más grande son las tiras led más corriente consumen ,el voltaje es el mismo para todos
+
 
 ## Si no trae para medir diodos no lo compres
+
+Hay leds en donde el haz es un poco más abierto o otro un poco más cerrado entonces se encuentra el led de chorro led láser
+Los leds lasser se utilizan para apuntar los telescopios al espacio
+
+Casi el 95% de la energía que entra el led se convierte en luz
+
+### El control remoto es lo más viejo usa luz infraroja
+#### La luz roja se puede ver con un dispositvo especial
+
+### Video 6
+Vimos como medir si no sabíamos cual era el cátodo y el ánodo con un multímetro se podía medir con la función de diodo

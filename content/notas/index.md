@@ -8,6 +8,7 @@ Le puso demasiado enduido  en vez de tapar la rayita es como que va revocando de
 No controló si el fijador que le dí estaba seco.
 Vos podés pasar una capa finita y después un revoqye  
 Y arriba no le puso imperniabilzante  
+
 Porque arriba entra agua por la pintura  
 Con q material de revoca? Con revoque fino o con el enduido pero es para arreglar chiquito  
 Cuando revocas la casa se hace revoqye fino y grueso  
@@ -105,6 +106,7 @@ endido gasto 1 kilo y pidió más, no usó impermiabilizante
 Este pintor es medio malo, lo único que hizo fue pasar el fijador (sólo se pasa cuando la pared es nueva) y le pintó no tuvo que limpiar la pared.
 ni miró si tenía membrana y como estaba el techo ni impermiabilizó.
 
+y le pregunté si puso membrana en su casa y dijo que si puso e igual le entraba agua no sabe poner la membrana
 Para poner la membrana tenés que usar soplete 2 garrafas de 10 kilos.
 
 la mayoría de la gente apoya la membrana (no la instala bien) entra el agua en la esquina y corre todo por debajo.
@@ -134,4 +136,9 @@ tengo uqe ir pner un lan switch y configurarlo como si fuera un equipo de telefo
 medís la fibra, hacés loop, tenes que tener instrumento conectar tener energía, si es de 48 voltios, tenes que tener prolongador 
 
 despues de dos años le hacen conectar los routers y ni le dicen como hcerlo
+
+
+
+cambio la baranda  y pinto la reja
+la luz aumentó 140% durante el año
 
