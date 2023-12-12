@@ -1114,7 +1114,6 @@ los transistores no se usan tanto para hacer amplificadores porque ya hay circui
 
 hoy no se usa mucho, los manuales de los transistores ya vienen con un rango específico no se miden,
 
-![punto_saturacións_corte](/electronica/punto_de_saturacion_corte.png)
 
 ### para medir
 mete el transistor en la ranura de npn o pnp en el transitor y ponelo en **hfe**
