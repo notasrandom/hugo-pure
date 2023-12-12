@@ -113,5 +113,7 @@ son calles normaels y después se convierten en circuitos los domingos
 
 
 
-### Cuando ponés el freno de mano en primera apretá el embrague
 
+## como entrar al garage
+
+#### Subiendo cuando ponés el freno de mano en primera apretá el embrague jugá con eso avanzá un poquito volvé a pizar el embrague y poné el freno de mano

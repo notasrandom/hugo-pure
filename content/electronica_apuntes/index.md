@@ -1012,6 +1012,8 @@ NPN no penetra
 en este caso comienza por 2N (sistema matericano) 
 2N : Son dos uniones que tienen, es como si fueran dos diodos
 
+### medicion
+![transitor medicion](/electronica/transitor_medicion.png)
 
 #### 2N3904: 3904 es una referencia a un diodo
 
@@ -1040,8 +1042,6 @@ el transistor tiene dos uniones la unión pnp y npn hacia arriba y hacia abajo c
 
 
 
-![emisor](/electronica/encapsulado.png)
-![colector](/electronica/encapsulado.png)
 
 Siempre el emisor nos va a marcar un poquito más
 
@@ -1149,7 +1149,7 @@ Para medir un voltaje 0 en dos terminales quier decir que hay total conducción,
 Y voltaje cc es igual a la corriente del colector por la resistencia del colector.
 
 #### alarmas
-![](/electronica/alarmas_colector_abierto.png)
+![alarmas](/electronica/alarmas_colector_abierto.png)
 las pgm de las alarmas son salidas a transistores, por lo general son transistores npn que son los más usados, y las salidas son de "colector abierto", es decir está desconectado yo tengo que conectarle una carga  o un bombillo o una sirena o un motor, entre ese punto que sale y una fuente de alimentación, es como si fuera una resistencia.
 
 Así funciona esta sailda de colector abierto.
@@ -1159,11 +1159,12 @@ Los sistemas de las cámaras la salida de alarmas funcionan así también con co
 #### por que se utilizan este tipo de salidas?
 porque son muy pequeños, son transistores muy chicos y son fáciles de conectar, pero si no sabés conectar esa salida porque la podés conectar a voltaje muy alto o podes ponerla en corto.
 
-![](/electronica/circuito_amplificacion.png)
+01:07:33 Video 6 ( [https://youtube.com/watch?v=eSeqKGbv6Fk](https://youtube.com/watch?v=eSeqKGbv6Fk)
+
 Vamos a suponer que este circuito está trabajando en amplificación
 
 En amplicación la corriente del colector es igual al beta por la corriente de la base.
-![](/electronica/circuito_electronica_base_.png)
+
 Y yo conecto un diodo led y sé que ese diodo necesita 20 miliamperios
 
 Al igual que los diodos (entre la unión pn) ese voltaje es de aproximadamente 0,7 voltios
@@ -1192,4 +1193,12 @@ I_b = I_c sobre el beta
 ```
 I_B = 20mA sobre 100 = 0,2 mA
 ```
+![circuito transistores](/electronica/transistores_circuito.png)
 Entonces nos damos cuenta que con 0,2 miliamperios que pasarán por la corriente voy a controlar 20 miliamperios que van a pasar por arriba.
+
+## REPASAR VIDEO 6
+
+1 amperio = 1000 miliamperios = 1.000000 microamperios
+0,2 miliAmperios = 200 microamperios = 0,0002 amperios
+
+
