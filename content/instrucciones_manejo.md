@@ -117,3 +117,4 @@ son calles normaels y después se convierten en circuitos los domingos
 ## como entrar al garage
 
 #### Subiendo cuando ponés el freno de mano en primera apretá el embrague jugá con eso avanzá un poquito volvé a pizar el embrague y poné el freno de mano
+### si vas a subir un poquito en subida siempre tenés que estar escuchando el motor y apretando el embrague cada vez que levantas el freno de mano sino el auto se te va a apagar

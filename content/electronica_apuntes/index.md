@@ -1201,3 +1201,144 @@ Entonces nos damos cuenta que con 0,2 miliamperios que pasarán por la corriente
 0,2 miliAmperios = 200 microamperios = 0,0002 amperios
 
 
+## Video 7
+#### Transistor FET
+Son parecidos a los BJT, pero son más eficientes. Se dividen en dos grupos: JFET y MOSFET
+
+primero se crearon los jfet 
+toda la tecnología de los circuitos integrados se ha ido desarrollando con la tecnología de los transistores mosfet.
+
+
+### polarización jfet
+
+Existe la polarización del canal n y la del canal p
+ese material n y p tiene un dopaje químico diferetne a como los tienen los bjt
+#### la diferencia entre jfet
+el funcionamiento es igual, la corriente, en este caso tienen 3 pines llamado drain gate, source la simbología en el canal n la flechita entra y en el canal p la flechita sale
+
+la corriente que va por el drain comparandolo con un bjt el drain es como si fuera un colector el source el emisor, y el gate es como si fuera la base
+
+En el BJT esa corriente depende de la base por un factor de amplificaciion
+
+En este transistor esa corriente depende de un voltaje que sigue teniendo un factor de amplificacion que se llama transconductancia.
+Y se muestra con la gente gm o gfs
+
+Pero ahora depende de un voltaje, el voltaje entre compuerta y la fuente, entre gate y source.
+
+Eso los hace diferentes a los otros transistores.
+#### Que hace esto tan importante?
+Con fuente con un voltaje muy chico que no tenga corriente yo puedo activar ese transistor.
+Son muy susteptibles a las cargas estáticas, entonces vienen todos en corto para que la estática no circule dentro de ellos, para descargar la estática se conectan a tierra.
+
+Otra cosa la compuerta y el source la polarización ya no es más directa como el BJP sino que es inversa, el negativo a la compuerta y el positivo a tierra.
+
+
+### MOSFET
+Poseen una composición más compleja e incluyen material N, P y una capa de oxido metálico. Funciona con una señal de Voltaje entre G y S (V_GS)
+
+Los transistores BJT son usados para manejar pequeñas corrientes de amplificación, se utilizan más la familia de los mosfet 
+
+El voltaje que hay entre gate y source es el que me va a controlar la corriente del drain.
+
+Todos los que son sistemas de UPS sistemas de variedda de los motores, son construidos con etapas de potencia con MOSFET.
+
+Las caminadoras la parte electronica está construido con MOSFET.
+
+#### Los circuitos integrados usaban BJT al principio
+Luego fue sustituido por MOSFET
+
+Los transistores en la eletrónica son los BJT porque se usan más para conmutar corte y saturación para manejarlo como switcher, y los MOSFET se utiliza en etapa de potencia.
+
+
+#### Electrónica de potencia
+Como regular los voltanes y como manejar discipacion como controlar las corrientes que vuelven a los transistores, es más complejo requiere más estudio.
+
+
+#### Tiristores: introducción
+Poseen una composición más compleja e incluyen material N, P y una capa de oxido metálico. Funciona con una señal de Voltaje entre G y S (V_GS)
+
+Familia de switches electrónicos nos permiten manejar corriente alterna y corriente continua, son muy utilizados más en corriente alterna.
+
+Los transsitores originalmente fueron diseñados para amplificar la corriente la señal, los tiristores se crearon para controlar las cargas y que funcionaran como un switch electrónico, permite o bloquea el paso de corriente.
+
+
+Los transistores solo funcionan en corriente continua. Los tiristores se usan más en corriente alterna 
+
+
+##### diferencia entre tiristores y transitores
+1. Manejo de corriente, los tiristores manejan mucha más altas. Los transistores MOSFET manejan corrientes de 50 a 100 amperios.
+
+#### Tiristores: definición
+Son dispositivos semiconductores formados por varias capas de material P y N, acomodadas de tal forma que producen un efecto de enclavamiento (latching). Esta característica es la que permite que se usen como interruptores electrónicos de pontencia.
+
+Los principales tiristores son el SCR (Silicon Controller Rectifier) y el TRIAC(Tríodo de Corriente Alterna)
+
+
+### SCR
+Es un diodo rectificador de silicio que requiere una corriente de control en la compuerta (G) para funcionar. Una vez conduce corriente, queda enganchado y hay que quitar la corriente del ánodo para reestablecerlo.
+Sólo me permite pasa de ánodo a cátodo de cátodo a ánodo BLOQUEA el paso de corriente.
+
+![circuito scr](/electronica/circuito_scr.png)
+Le aplicamos un voltaje positivo que circulará por la lámapara inicialmente está apagado cuando se oprime este switch que dice on , cunado viene ese punto de corriente el scr y deja pasar corriente en 1 setndio y la lámpara se prende y queda enganchado y prendido
+
+### TRIAC
+33:47 minuto Video 7
+Requiere de un pulso de corriente en la compuerta para conducir y se bloquea cuando la corriente de ánodo cae por debajo de un valor sostenido. 
+
+Muy usado para el control de lámpara y luces
+Es un interruptor electrónico para controlar cargas de corriente alterna como lámparas, motores, hornos, solenoides, etc.
+Los hornos electricos tienen un circuito de control que usa un TRIAC porque con TRIAC puedo controlar la señal de la onda AC.
+
+#### Circuitos integrados
+Son los componentes que han permitido el desarrollo de la electrónica hasta la actualidad. Un circuito integrado contiene en su interior un circuito electrónico formado por miles o millones de transistores.
+Se fabrican en unas oblea de silicio y cada cuadrito de esta oblea es un chip 
+### Tipos
+- Análogos o lineales (señal que puede tener una parte positiva y una parte digital, o no tiene una polaridad) por ejemplo una onda AC puede ser una señal análoga una onda de audio es una señal análoga, una señal de radio frecuencia es una señal análoga. Varian con el tiempo. Por ejemplo si tenés una onda senoidal yo puedo saber en odnde va a estar la onda en determinado tiempo en una señal de audio no , porque no tiene control , puede tener diferente tonos.
+Dos familias:
+* Regulares de voltaje: 12 voltios y lo llevo a 5 voltios o 5 voltios y lo llego a 12 (en el caso de que los suben el voltaje no lo REGULAN sólo lo elevan)
+UPS: Se le llaman más reguladores.
+
+* Amplificadores operacionales
+
+1:06:33
+- digitales
+- mixtos
+
+
+### Circuito Integrado Digitales
+## Transitor tiene dos funciones
+Puede ser manejado de forma lineal en amplificadores personales o puede funcionar en corto y saturación para circuitos digitales.
+#### Circuito Integrado Mixto
+Maneja digital y análogas
+
+A las UPS también se les llama reguladores, les toman un toma de color naraja se llama energía regulada porque siempre está al mismo nivel 
+
+Un ejemplo de estos circuitos integrados lineales hay dos familias (circuitos integrados)
+1 . Reguladores de volaje: Toman una señal de un voltaje y la regulan a otro nivel (corriente continua)
+O sea tengo 12 Voltios y lo llevo a 5 voltios
+En caso de los que suben el voltaje no lo regulan solo lo elevan
+Con un reguladores de 5 voltios lo mínimo que puede tener en la entrada son 7 voltios
+Y también tiene un rango de subida puede estar en 10 20 máximo.
+
+2. Amplificadores operacioales
+No regulan voltaje, amplifican una onda a una señal peude ser una alterna
+Una onda de audio 
+
+
+A las UPS se les llama reguladores, le colocan tomas de color naranja se le llama toma de energía regulada, en los otros tomas corriente la energía puede variar puede estar en 120 105 siempre está al mismo nivel
+
+En los reguladores siempre la salida será al mismo nivel
+
+### CI Digitales
+Como las calculadores, sistemas de sonido, 
+
+### CI Mixtos
+Estos circuitos convierten una señal análoga en digial o viceversa.
+Son IC que manejan señales análogas y digitales como los convertidores A/D y D/A, los potenciómetros digitales, los DSP.
+
+#### Datasheet: Hora 01:14:38 Video 7 ( [https://youtube.com/watch?v=3G--w9ZS0YE](https://youtube.com/watch?v=3G--w9ZS0YE) )
+Para mirar las especificaciones de un componente existen unas hojas de datos llamadas datasheet.
+Buscan datasheet de un componente y les aparecerá las especificaciones de ese componente.
+Por ejemplo: buscá datasheet 2N3903 y dice que es un transistor de prósito general NPN de silicio
+Nos dice voltaje colector emisor y dice que máximio 40 voltios entre el colector y la base y el voltaje entre el voltaje y el emisor máximo 40 voltios y dice corriente continua del colector: máximo 200 miniamperios.
+y dice que ese transistor tiene un ancho de banda de 250 megaHertz.
