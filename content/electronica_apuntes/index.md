@@ -1342,3 +1342,139 @@ Buscan datasheet de un componente y les aparecerá las especificaciones de ese c
 Por ejemplo: buscá datasheet 2N3903 y dice que es un transistor de prósito general NPN de silicio
 Nos dice voltaje colector emisor y dice que máximio 40 voltios entre el colector y la base y el voltaje entre el voltaje y el emisor máximo 40 voltios y dice corriente continua del colector: máximo 200 miniamperios.
 y dice que ese transistor tiene un ancho de banda de 250 megaHertz.
+
+
+
+### PCB
+Los PCB (Printed Circuit Board) son placas con líneas conductoras donde se pueden ensamblar los componentes de un circuito electrónico. Pueden ser una o dos caras.
+
+Por lo general estas placas son de cobre y las lineas hacen una conexion con cables.
+
+### Tipos de PCB
+Los PCB de una cara utilizan componentes de inserción y los de dos caras usan de inserción y montaje superficial.
+
+#### Los que atraviesan la placa se llaman componente de inserción o TRUJOL
+#### y los que se colocan por encima se llaman de montaje superficial
+
+
+#### Software diseño PCB
+Altium Designer
+Autodesk Eagle
+EasyEDA
+KiCa..
+
+### Soldadura de Componentes
+##### el cautín
+Es una herramienta que proporciona temperatura para unir componentes electrónicos con soldadura de estaño.
+
+#### El estaño pega a los componentes.
+El estaño se derrite a la temperatura 80/90 grados centígrados.
+La soldadura eléctrica derrite una barra a alta temperatura el proceso es eléctrico y ese material se pega a la parte en donde yo quiero poner la soldadura.
+Lo mismo pasa con el cautín simplemente es un dispositivo de temperatura que se caliente y une las partes. 
+El cautín ideal para utilizarlo en electrónica debe estar en 25 vatios puede ser un poco más pero lo ideal es 25 porque hay muchas pistas en los circuitos impresos que se van a despejar del circuito impreso. Los cautines con temperaturas muy bajas no derriten bien el estaño.
+
+Hay algunos tipos de soldaduras q tienen los pines muy gruesos y se requieren más temperatura, lo ideal es tener un cautin que permita variar la temperatura. Pero para iniciar uno de 25 vatios ya está bien.
+
+#### Pistolas de soldadura
+Vienen entre 80 - 100 vatios esto nos va a producir calor que nos va a derretir.
+
+#### Partes del cautín
+Punta, resistencia, empuñadura, cable de conexión, clavija de enchufe.
+
+
+Hay cautines de todos los tipos que nos van a dar mejores prestaciones.
+Hay cautines que internamente tienen el sistema de variacion de temperatura.
+
+
+Hay cautines portátiles que no necesitan conectarse a 110 que funcionan con un 
+gas butano que cuando se quema genera una temperatura, también puede servir.
+
+La herramienta principal es el cautín a 25 - 30 vatios para poder soldar.
+
+### El estaño
+La soldadura para electrónica viene en forma de alambre y está conformada por una aleación de dos metales: Estaño y plomo. La más usada contiene 60% estaño y 40% plomo.
+## IMPORTANTE
+El plomo es un componente nocivo para la salud una vez q entra al organismo ya no sale, siempre hay que tomar preocauciones al trabajar con el plomo. 
+En europa está prohibido usar soldaduras de estaño con plomo, tiene que ser 100% estaño.
+Las tarjetas electrónicas con las q se sueldan los componentes no pueden tener plomo.
+Si llegás a vender una tarjeta electrónica con plomo en europa te pueden llevar preso.
+
+
+Hay en muchas cosas la nafta tiene plomo, muchas baterias también tienen plomo.
+En perú hay unas minas grande plomo hay una comunidad que vive cerca y se ha descubierto que los niños no crecen más de 1 metro, la gente se queda enana por el plomo que entra al organismo.
+
+El estaño viene internamente con una resina desorxidante que ayuda a que el estaño se adiera a un material, el estaño es un material q vas a derretir pero hay una resina que ayuda a que se adiera a los alambres o a otro metal, la resina limpia la superficie para que el Estaño se adiera. 
+
+### proceso de soldadura
+la punta del estaño siempre tiene que estar limpia para eso se utliza unos limpiadores o lo pueden hacer con las esponjas es un alambre muy suave muy delgado y con esa esponja no maltratan la punta del cautin.
+Si usan un alamebre muy grueso daña la punta del cautín y se empieza a desgastar el cautín.
+
+Otra herramienta es el ventilador de extracción para no respirar estos humos q contienen plomo.
+
+
+### Consejos para soldar
+1. Siempre tener un extractor
+2. Tener buena ventilación entrada y salida de aire, no soldar en el zótano en donde no hay corriente de aire.
+
+## proceso de soldadura
+![proceso soldadura](/electronica/proceso_soldadura.png)
+1. La tarjeta es el cobre y se introduce la resistencia
+2. Por un lado coloco el cautin con un poquito de temperatura
+3. Por el otro lado coloco el estaño, una vez que se caliente el cobre y la resistencia este calor se transmitirá al estado se derritirá y con la resina que tiene internamente se va a aderir mejor.
+4. Se ve como se derrite estaño
+5. Lo ideal es que quede como una especie de arco
+
+![estano](/electronica/estano.png)
+Acá vemos dos tipos de soldaduras.
+
+En la parte de arriba la 3er imágen: el estaño queda como marchitado o como envejecido, esto pasa cuando se calienta demasiado el estaño la resina se ha agotado se ha secado y siguen dandole con el cautín al estaño, el estaño se va a quemar y ya no sirve.
+2da: quedó un poco por fuera
+1era: también quedó por fuera soldó una parte y la otra no.
+
+#### El proceso correcto es que el pin al que voy a soldar debe quedar por ambos lados perfectos y no puede quedar huecos.
+
+
+##### 19:48 Video 8 Práctica [https://youtube.com/watch?v=VEihs4wH2nc](https://youtube.com/watch?v=VEihs4wH2nc)
+
+La punta tiene que estar completamente estañada y luego limpiamos el cautín con la esponja metálica. La punta tiene que estar ligeramente estañada 
+Lo ideal es apoyarlo al cautín en la base.
+
+
+### Para soldar no se necesita nada más que el cautín y soldadura
+La pasta sólo se usa para soldar componentes muy gruesos o muy grande.
+En la tarjetas de circuitos impresos dañará la pasta o generará mugre o una resina en los circuitos y esa resina creará conductividad y nos puede generar cortos.
+
+El Estaño tiene una resina internamente en el alambre.
+
+## Lo que no se debe hacer
+Mucha gente le pone soldadura al cautín y luego pone el estaño al circuito usando el estaño que quedó en el cautín. Es un típico error.
+La soldadura queda desprolija.
+### otro error
+le ponen crema y cuando sueldan esa crema se esparce sobre el componente.
+La soldadura no deebe quedar abultada
+
+El mismo estaño nos sirve para arreglar soldaduras.
+
+La idea de limpiar el cautín es para que nos ayude a quitar el exceso de soldadura en los circuitos.
+
+### desoldador
+Para desoldar componentes electrónicos de tarjetas existen dos tipos de herramientas: Desoldador mecánico (extractor mecánico succiona aire ) y malla de cobre trenzado y una malla que viene con una resina muy superficial.
+
+## pasos
+coloco el cautín y el succionador al otro lado y el succionador chupa la soldadura.
+Pero en nuestra empresa usamos más con la malla porque usamos más soldaduras de montaje superficial.
+#### Se puede usar pistola de calo pero necesitás más tiempo porque teneś que esperar a que se caliente el componente, una forma más fácil es colocando el estaño por los dos lados hasta quitar el componente y limpiar las patitas y limpiar los pines.
+
+
+![soldadura](/electronica/soldadura_.png)
+### Una forma de soldar
+La forma de soldar un componente es soldando pin por pin 
+### Otra forma de soldar
+Podés soldar todos los pines a la vez
+
+
+#### Si el estaño se cristalizó no agarrará bien el cautín o en algunas tarjetas le agregar resina para que no se dañe por la humedad.
+
+
+## cómo fabricar un circuito impreso casero  (Hora 01:02:30 del Video 8) [https://youtube.com/watch?v=VEihs4wH2nc](https://youtube.com/watch?v=VEihs4wH2nc)
+
