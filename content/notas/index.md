@@ -155,4 +155,97 @@ me hicieron perder el tiempo de 5 placas 1 solamente funcionaba.
 
 
 
+  
+#### materiales re contra viejo puso nuevo de una placa de dslam  
+  
+dslam: Un multiplexor de acceso a línea de abonado digital es un dispositivo de red, a menudo ubicado en centrales telefónicas, que conecta múltiples interfaces de línea de abonado digital de clientes a un canal de comunicaciones digitales de alta velocidad mediante multiplexación.  
+  
+El equipo de DSLAM de internet de cobre tiene 15 placas de 48 abonados cada uno.  
+  
+Un equipo tenía solo 9 clientes sacamos la placa que andaba bien que necesitabamos para el otro equipo. Y se la pusimos que tenía 75 entonces el 75 quedó andando después pedi el respuetso y vino el repuesto mal.  
+Pero el que se rompió tenía 75 entonces buscamos uno que tenía solo 9 y a ese equipo le afanamos la placa.  
+  
+Es decir, todos los equipos tienen 600 clientes pero uno tenía 9 clientes activos de alta y el otro 75 entonces dejamos afuera de servicio el de 9 clientes y recuperamos el de 75 clientes.   
+  
+Y ahora quedó mal un equipo de 9 clientes y ahora vino la placa de repuesto fallada y del 7 de diciembre están sin internet.  
+Ahora van a dar la órden de cambiar al equipo, no van a esperar que venga otra placa.  
+  
+En villa cabello hay 13 equipos y cada uno admite 600 clientes cada equipo. Clientes reales en villa cabello son 250, se fueron todos a gigared y a claro.  
+La placa que sacaste tenés que mandar a arreglar pero ya no se arregla, no hay más respuesto de las marcas ZTE, Telecom no tiene más contrato. Ahora usa Huawei y Alcatel hace varios años ya, pero los equipos quedan andando y cuando se rompen hacen todos esos movimientos.  
+Antes los bancos hacían lo mismo todo el mundo se cambiaba de banco.  
+  
+  
+### Verseo diciendo que hace todo plomeria, electricista.  
+  
+#### El pintor pinta no más, lo que vos querés una empresa constructura que te solucione todos los problemas.  
+### No está el ladrillo comido por el agua.  
+Cortar el ladrillo y con cemento rellenarle, es como que le falta una baldosa.      
+#### Si le falta el ladrillo como va a pintar  
+El ladrillo no pongo, la reja no pinto.  
+Para pintar la reja tenés que lijar primero.  
+  
+  
+No es albañil, no le gusta eso.  
+#### El albañil no te va a pintar ni te va a solucionar problemas de electricista.  
+Cada cosa hace uno distinto.  
 
+No hay un tipo honesto que te cobre 2 pesos.
+Si hacés así el pintor te pide 50 el albañil quiere 30 y aparte tenés que comprar el ladrillo y la pintura.
+Tenés  que buscar una hora de servicio, por 50 que haga todo.
+
+
+### Quiero que haga todo pero que sea múltiple
+Pintor, electricista, plomero.
+
+##### Vamos a tener que arreglar nosotros igual que la baldosa que le falta abajo.
+### la solución es llamar a una empresa de servicio no a un tipo
+Yo le traje a uno de telecom y no podía ni soldar el caño de plomo. Eso fue lo que le pasó a fabián tuvo que soldar el caño de plomo. Le unió con unas uniones para caño universales.
+
+
+## por qué es tan dificil soldar el caño de plomo.
+era un oficio de plomero, se llamaba plomero porque era todo con plomo, hoy en día todos trabajan con pbc rojo (plástico)
+
+
+pinta pero no pinta la reja
+es plomero pero no arregla el ladrillo
+es electricista pero no arregla la cerámica.
+
+tengo el ladrillo no arregla
+tengo la baldosa despegada y no arregla
+tengo que pintar la reja y no pinta.
+
+Era multitask y resulta que no.
+
+No hizo un análisis, diciendo primero tnego uqe arreglar el ladrillo, acá yo tengo que arreglar cerámica, acá yo tenog que rasquetear el techo. Vino y puso el enduido en un techo que le entraba el agua.
+
+El oficio se llama plomero pero ninguno sabe soldar el plástico de plomo. ya no hay más caño de plomo.
+
+### Quiero un tipo que detecte los problemas no que yo le diga todo.
+Yo arreglé el techo antes que llueva.
+
+### Queda como una goma pero ya estaba rota, limpiamos todo eso y pusimos membrana líquida.
+En el techo en donde paso el enduido tenía q lijar un poco, en frente tenía que reparar una rajadura y pintó no más.
+Y allá arriba le falta pintar una pared que da al vecino
+
+
+Pastilla gamesani, para las ratas y cucarachas.
+
+
+
+
+### ayala
+### camaras
+
+pedales llanta rayos manubrio volante freno
+
+
+#### monotapines: 
+cámara y cubierta desarmar es un quilombo.
+algunas tienen goma masisa: es duro sin amortiguación
+
+###### una bicicleta elétrica conviene más que una moto porque no tenés que pagar patente ni seguro ni VTV.
+en la motito 110 gastás 1 litro cada 50 km. 1 litro por día. 1 libro 500 pesos, en 30 días son 15.000 pesos.
+las cubiertas de las motos son mas caras, la camara la cubierta la cadena, cambiarle el aceite te patina el embrague.
+
+## bicicleta
+la potencia determina la fuerza.

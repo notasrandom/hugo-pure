@@ -484,7 +484,7 @@ Pero hay otros factores que le quitan esta prioridad:
 #### 50 cm por delante y por detrás y a no más de 20cm del cordón
 
 #### La moto no se puede estacionar en la vereda, tampoco puedo estacionar mi auto en la senda peatonal, tampoco puedo estacionar el vehículo en la ochava, tampoco es correcto estacionar ni detenerse en doble fila
-#### Frente a hospitales, templos sanatorios u organismos públicos debo dejar 10 metros libros de cada lado de la entrada.
+#### Frente a hospitales, templos sanatorios u organismos públicos debo dejar 10 metros libres de cada lado de la entrada.
 
 ## Señales
 Son el idioma del tránsito

@@ -1472,9 +1472,45 @@ La forma de soldar un componente es soldando pin por pin
 ### Otra forma de soldar
 Podés soldar todos los pines a la vez
 
+### circuio impreso 
+en una placa de cobre se puede pintar con esmalte sintético, con una birone, le sacabas la puntita y le ponés el esmalte o podés pintarlo con marcador indeleble. Pero era mejor la pintura porque con el marcador lo hacías y se te iba la pintura 
+el marcador quedaba poroso y cuando metías en el ácido la placa se comía también la pista, y si te sale mal podés limpiar con tiner o una virulana. Cuanod 
 
 #### Si el estaño se cristalizó no agarrará bien el cautín o en algunas tarjetas le agregar resina para que no se dañe por la humedad.
 
 
 ## cómo fabricar un circuito impreso casero  (Hora 01:02:30 del Video 8) [https://youtube.com/watch?v=VEihs4wH2nc](https://youtube.com/watch?v=VEihs4wH2nc)
+
+
+### podés buscar diseños de circuito descargarlo e imprimirlo, tiene que ser impresora LASER porque la tinta tiene como un toner q hace que se pegue una impresora de TINTA no funcionará. y un papel especial papel fotográfico o papel para circuitos impresos
+# No hacer esto en una mesa de vidrio
+
+Clorudo férrico se usa , come el cobre en donde no está pintado.
+#### 5 minutos mantener la plancha sobre el papel
+# Si no te queda bien el dibujo en la placa, tenés  que limpiar el dibujo.
+Si no te anda se lo hce con esponjilla tipo bombril que son delgadas limpia el dibujo q hiciste en la placa de cobre.
+
+
+## Video 9
+
+### Todos los dispositivos 
+Se necesita de una fuente de alimentación para que los circuitos funcionen.
+Todos los dispositivos electrónicos tienen una fuetne de alimentación 
+Una son las baterías y otra son fuentes de alimentación de corriente alterna y lo convierte en corriente continua , ejemplo: un televisor un equipo de sonido una impresora.
+
+## baterías
+Son componentes electrónicos que producen energía eléctrica a partir de unareacción química. A diferencia de los condensadores las baterías producen energía durante largos periodos de tiempo.
+
+#### Tipos de batería
+Hay una que no se carga y otra que si se carga
+
+#### Pila vs bateria
+en las pilas no se puede revertir el proceso de reacción química en la descarga, mientras que en las baterías una vez descargada se puede volver el estado químico original o sea regarla.
+La batería siempre se va a descargar sóla está o no conectada, esa es la gran diferencia.
+
+### Mucha gente asocia el tamño con la duración de la bateria
+el litio hizo que las baterías se redujeran en tamaño y tuvieran más energía.
+
+#### fuente CA/CC
+
 
