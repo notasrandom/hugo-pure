@@ -1578,7 +1578,10 @@ Si yo aumento el número de vueltas en la salida, el voltaje en la salida se va 
 
 #### Interesante
 La energía q entra es la misma energiá q sale.
-Ejemplo: 
+Ejemplo: Minuto 25:14 Video 9 [https://youtube.com/watch?v=P6CIGofAv6M](https://youtube.com/watch?v=P6CIGofAv6M)
 
+Potencia = voltaje * corriente
+Potencia = 12 voltios x 1 amper
+Potencia = 12
 
 
