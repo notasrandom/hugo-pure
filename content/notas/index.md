@@ -243,9 +243,12 @@ pedales llanta rayos manubrio volante freno
 cámara y cubierta desarmar es un quilombo.
 algunas tienen goma masisa: es duro sin amortiguación
 
-###### una bicicleta elétrica conviene más que una moto porque no tenés que pagar patente ni seguro ni VTV.
+#### una bicicleta elétrica conviene más que una moto porque no tenés que pagar patente ni seguro ni VTV.
 en la motito 110 gastás 1 litro cada 50 km. 1 litro por día. 1 libro 500 pesos, en 30 días son 15.000 pesos.
 las cubiertas de las motos son mas caras, la camara la cubierta la cadena, cambiarle el aceite te patina el embrague.
 
 ## bicicleta
 la potencia determina la fuerza.
+
+
+#### kit para armar la bicicleta eléctrica

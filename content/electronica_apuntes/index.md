@@ -1511,6 +1511,45 @@ La batería siempre se va a descargar sóla está o no conectada, esa es la gran
 ### Mucha gente asocia el tamño con la duración de la bateria
 el litio hizo que las baterías se redujeran en tamaño y tuvieran más energía.
 
-#### fuente CA/CC
+Hay aparatos electrónicos que permiten funcionar con batatería, las bateriías han creado una portabilidad en los aparatos electrónicos que no existía antes, antes siempre tenía que estar todo conectado.
+Las baterías se inventaron hace mucho tiempo pero eran demasiados grandes.
+Llego a ver accidentes q las baterías se calentaaban y explotaban. 
 
+Ya se ha ido mejorando, hay otro compuesot, la nueva generación de batería ya no son litio, se ha demostrado que estos nuevos compuestos diferentes al latio duran mucho mas que el litio, en un futuro no muy lejano el litio dejará de usarse en las bateria.
 
+El litio es muy rentable para fabricar baterías, algo en contra del litio el hecho de que geenere en donde se saca en donde se produce el litio acaba con muchas reservas de agua.
+
+Hay fuentes que convierten de corriente alterna a una continua, este es el tipo de fuente más usada en la mayoría de los equipos electrónicos.
+
+La mayoría de los circuitos electronicso funcionan en corriente directa , porque los componentes los transistores y estos transistores necesitan polarización directa por eso necesitan una corriente continua, que me polarice todos estos transistores en los circuitos integrados.
+
+  
+![corriente alterna a continua grafico](/eletronica/alterna_a_continua.png)  
+  
+### partes de una fuente CA/CC  
+  
+![partes de una fuente CA/CC](/electronica/partes_fuente_ca_cc.png)  
+  
+Una fuente de alimentación de corriente altrena a continua tiene estas etapas estos bloques.   
+  
+1. Se toma la red pública de 110 o 220, y se transforma a un voltaje más chico puede ser 9 voltios puede ser 12 voltios, dependiendo de lo que necesito manejar.  
+2. Rectificación: esta onda alterna primero la bajo con el transformador y luego la convierto a una onda únicamente con 1 sóla polaridad, las ondas que son negativas las vuelvo postiivas, para que sola me queden positivas.  
+3. Filtro: las ondas hasta acá tienen una caída muy grande entonces disminuyo esa caída de las ondas en la etapa de filtrado.  
+4. Regulada: Con una etapa regulada lo que hago es volver a la onda uniformela onda que venía alterna la convierto en uniforme para finalmente ser una onda  de corriente continua   
+  
+  
+### Detalles de estas etapas por separado  
+## Transformador  
+es un componente conformado por dos bobinas o más enrolladas sobre un núcleo que se utiliza para elever o disminuir el voltaje. La bobina que se conecta a la entrada se denomina Primario y la de la salida se llama secundario.  
+  
+Puede considerarse pasivo o mecánico la diferencia es que no tiene piezas en movimientos está fijo, es una variacion de las bobinas.  
+Me convierte la onda alterna en una onda alterna pero más grande o más chica, me amplifica o me dismiye la onda alterna.  
+  
+  
+  
+### Funcionamiento del Transformador  
+Son dos bobinas, una bobina primaria y otra secundaria .  
+Nikola Tesla creó este dispositivo.  
+  
+Cuando se aplica un voltaje alterno en la bobina primaria, esta genera un campo magnético que se desplza por el núcleo hasta la bobina secundaria donde induce un voltaje alterno.  
+  
