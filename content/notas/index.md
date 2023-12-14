@@ -252,3 +252,15 @@ la potencia determina la fuerza.
 
 
 #### kit para armar la bicicleta eléctrica
+
+
+## quien va a comprar tantos colectivos si te va mal?
+Los empresarios de transporte. Se quejan porque el pasaje se va a mil pesos.
+No es cireto que no le cierra el número.
+### Los dueños de llas empresas de transporte se quejan porque el Estado sacará el subsidio, ellos creen que van a perder.
+Si cobran 1000 pesos creen que la gente va a pagar.
+
+
+ah = amper hora
+
+

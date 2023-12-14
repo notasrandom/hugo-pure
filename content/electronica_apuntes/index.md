@@ -1549,7 +1549,36 @@ Me convierte la onda alterna en una onda alterna pero más grande o más chica, 
   
 ### Funcionamiento del Transformador  
 Son dos bobinas, una bobina primaria y otra secundaria .  
-Nikola Tesla creó este dispositivo.  
+Nikola Tesla creó este dispositivo. Todo lo que vemos en electrónica fue por Nikola Tesla hace más de 100 años. 
   
 Cuando se aplica un voltaje alterno en la bobina primaria, esta genera un campo magnético que se desplza por el núcleo hasta la bobina secundaria donde induce un voltaje alterno.  
   
+
+![Funcionamiento del Transformador](/electronica/funcionamiento_trasnformador.png)
+
+Las bobinas generan un campo magnético y el movimiento de una bobina en un campo magnético genera una corriente en la bobina, acá vemos que es lo contrario la corriente en una bobina me genera un campo magnetico y ese campo magnetico se puede desplazar a traves de un material que es un núcleo. Estos materiales se llaman materiales ferromagnéticos porque tienen propiedades magnéticas son hierros con propiedades magnéticas y hace que el campo magnético de esta bobina se transporte por este núcleo y se desplace hasta la otra bobina y cuando está del otro lado ese campo magnético q pasa a través de esa otra bobina induce una corriente en la otra bobina.
+
+
+A gran escala es muy interesante, se transporta la energía y desde ahí se sale otro tipo de onda, y tiene una relación otra fórmula para calcular si el voltaje que salga sea mayor o sea menor.
+### Resumiendo
+La bobina primaria genera un campo magnético que se va a inducir a través del núcleo en otra bobina y esto generará una corriente alterna, es decir, la misma corriente, el mismo periodo de la corriente que entra será la misma que sale, el período de la frecuencia es el mismo lo que cambia es el voltaje.
+
+La bobina de entrada está físicamente aislada de la bobina secundaria. Eso se llama un aislamiento galbánico. No están conectadas a través de ningún cable. 
+
+Entonces, eso crea un aislamiento entre la bobina de entrada y la bobina de salida,no hay un contacto físico y hace que la energía de un lado no esté conectada a la energía de entrada actúa como una forma de protección la corriente que viene de la red pública a la corriente que sale en el bobina secundario.
+
+Los transformadores tienen una fórmula para calcular la relación entre las bobinas de entrada y la bobina de la salida.
+```
+V2 = N2/N1 * V1
+```
+El voltaje en el secunddario es igual al número de vueltas del secundario sobre el número de vueltas del primario por el voltaje de entrada, eso me dará el voltaje de salida.
+
+
+Si yo aumento el número de vueltas en la salida, el voltaje en la salida se va a aumentar y si yo disminuyo el número de vueltas en la salida , el voltaje en la salida se va a disminuir.
+
+#### Interesante
+La energía q entra es la misma energiá q sale.
+Ejemplo: 
+
+
+
