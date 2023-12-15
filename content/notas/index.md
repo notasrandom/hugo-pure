@@ -289,3 +289,11 @@ Como te andaba a vos el flitero, yo tengo uno chiquito de la óptica de Graciela
 No hay que comprar más nada todos quiere subir el precio.
 Dicen que la carne 9000 pesos, poné la carne al valor que quieras yo no te voy a comprar.
 el mismo que vende electrodomésticos 
+
+
+le puso un queso en sobre q tenía demasiada sal
+
+Sale más barato una resma de no se que puta.
+
+Ya desaparecieron los gricesitos esos.
+alacera 

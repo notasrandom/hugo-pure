@@ -11,3 +11,13 @@ draft: true
 [https://archive.is/kJJ4N](https://archive.is/kJJ4N)
 
 [https://archive.is/wip/r2m9E](https://archive.is/wip/r2m9E)
+
+
+### Bici a nafta
+
+![bici a nafta](/bici/bici_nafta.webp)
+
+[https://archive.is/rY372](https://archive.is/rY372)
+
+
+[https://youtube.com/watch?v=yhedj1iaz3w](https://youtube.com/watch?v=yhedj1iaz3w)

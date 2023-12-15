@@ -1695,3 +1695,8 @@ Por un lado tenemos la entrada de 110 voltios y por el otro la salida de 12 volt
 
 Los únicos que le hacen algo a la onda de voltaje son los puentes rectificadores.
 
+## El transformador deja pasar la onda completa, la onda es la misma simplemente cambie el voltaje. La energía que entra es la misma energía que sale. 
+
+
+## Vídeo 10
+
