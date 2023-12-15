@@ -264,3 +264,28 @@ Si cobran 1000 pesos creen que la gente va a pagar.
 ah = amper hora
 
 
+### taladro
+Usa corriente alterna 220 Votios de 750 vatios pero tiene carbón
+e-bike: 230 vatios bussless 
+
+
+Andá emparejando y sacá los hilos porque veo hijos tirados en el piso, saca tierra y pone en su maceta y agarré un montón de macetas sin plantas.
+
+
+
+### Caotrina
+2,5% caotrina.
+1 litro el 100%
+5 centimetro cúbicos, yo le ponía 10 centímetros cúbicos.
+30 centímetros cúbicos para 1 litro de agua.
+10 o 15 centímetros cúbicos
+3 miligramos
+Esto es para usar fertilizante.
+2 miligramos entonces tenés que usar 5 veces entonces
+
+Como te andaba a vos el flitero, yo tengo uno chiquito de la óptica de Graciela.
+
+### no había visto estos aumentos
+No hay que comprar más nada todos quiere subir el precio.
+Dicen que la carne 9000 pesos, poné la carne al valor que quieras yo no te voy a comprar.
+el mismo que vende electrodomésticos 

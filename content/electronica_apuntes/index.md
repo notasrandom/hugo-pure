@@ -477,7 +477,7 @@ La tolerancia es 6800x0,1 = 680### Codificación de resistencias
 
 La primera banda azul es 6, la 2da banda gris es 8, la 3era banda rojo es x100 y la tolerencia es 5% o sea x0.05.
 El valor es: 68x100=6800 omega = 6.8K omega
-La tolerancia es 6800x0,05 = 340 omnios.
+La tolerancia es 6800x0,05 = 340 ohmio.
 
 
 ### Video 4 (fin de la unidad 2)
@@ -606,7 +606,7 @@ El primer interruptor lo apretás y genera el paso de corriente y en el otro lad
 ![electrónica relé](/electronica/rele.png)
 Es una especie de interruptor electromecánico, conformado por una bobina y unos contactos que hacen de interruptor, pero el accionamiento de ese interruptor lo hace una bobina interamente el relay tiene una bobina q al darle voltaje acciona los contactos, tiene 3 contactos uno común y otro cerrado (estan unidos el cerrado y el común) y otro normalmente abierto. Entre el contacto abierto y el común no hay paso de energía.
 
-Con el multímetro se puede medir la bobina casi siempre estará por 300 omnios 400 omnios, un contacto me va a medir cerrado y el otro contacto me va a medir abierto. Un contacto me mide que la resistencia es de 1 2 omnios y el otro contacto no me mide resistencia. Y en la bobina me mide 200, 300 400 omnios dependiendo de la bobina.
+Con el multímetro se puede medir la bobina casi siempre estará por 300 ohmio 400 ohmio, un contacto me va a medir cerrado y el otro contacto me va a medir abierto. Un contacto me mide que la resistencia es de 1 2 ohmio y el otro contacto no me mide resistencia. Y en la bobina me mide 200, 300 400 ohmio dependiendo de la bobina.
 
 En las letras que tiene el relé me dice que es de 12 voltios, y me dice que la capacidad es de 10 amperios a 250Voltios
 O sea yo puedo conectar una bombilla a corriente alterna y funciona a 200 voltios y q tenga un consumo de 10 amperios.
@@ -630,7 +630,7 @@ Vemos como se conecta el relé, a la derecha tenemos dos contactos el que está 
 ### Como probar un relé?
 Para probar que el relé funciona tenés que poner el multímetro en continuidad que es el símbolo de internet inalámbrico. Podemos probarlo al relé en continuidad o en resistencia.
 
-ponelo en continuidad y medí entre los dos extremos de abajo y te va a dar 400 más o menos que está bien, y si medís el terminal de la mitad y un extremo superior te va a pitar si está en continuidad del otro lado no te va a medir nada. Si lo ponés en omnios (2k) te va a dar 383 más o menos la medida de la bobina y si ponés el negro en la mitad y el rojo en el extremo superior te va a medir una resistencia muy chica 0.01 y del otro lado NO nos mide NADA ( te tira 1 como resultado)
+ponelo en continuidad y medí entre los dos extremos de abajo y te va a dar 400 más o menos que está bien, y si medís el terminal de la mitad y un extremo superior te va a pitar si está en continuidad del otro lado no te va a medir nada. Si lo ponés en ohmio (2k) te va a dar 383 más o menos la medida de la bobina y si ponés el negro en la mitad y el rojo en el extremo superior te va a medir una resistencia muy chica 0.01 y del otro lado NO nos mide NADA ( te tira 1 como resultado)
 
 lo último que se daña en este tipo de componentes es el sistema de control
 
@@ -822,10 +822,10 @@ Y sabemos que la corriente que circula por el led va a ser de 20 miliamperios.
 V=IxR
 R = V sobre I = 10 V sobre 20 mA
 Resistencia = 10 V sobre 0,02 amperes
-Resistencia = 500 omnios (omega)
+Resistencia = 500 ohmio (omega)
 ```
 
-No se consigue 500, se pueden conseguir 510 omnios o 470 omnios.  
+No se consigue 500, se pueden conseguir 510 ohmio o 470 ohmio.  
 No va a variar mucho funcionan los dos.
 
 ### Como conectar dos leds en SERIE
@@ -839,17 +839,17 @@ Sabemos que cada diodo necesita activarse con 2 Voltios
 según la ley de ohm
 ```
 resistencia = voltaje sobre corriente = 6 voltios sobre 20 miliamperios
-330 omnios o 270 omnios
+330 ohmio o 270 ohmio
 ```
 si tengo 1 resistencia y 1 diodo led
 
 ```text
 Resistencia = Voltaje / Corriente = 6v / 20 m A
-R = 6 / 0,02 = 300 omnios
+R = 6 / 0,02 = 300 ohmio
 ```
 si tengo 1 resistencia y 3 diodos leds
 
-No se consigue 300, se pueden conseguir 330 omnios o 270 omnios.  
+No se consigue 300, se pueden conseguir 330 ohmio o 270 ohmio.  
 No va a variar mucho funcionan los dos.
 
 ![electronica diodos](/electronica/diodos_en_seriee.png)
@@ -1584,4 +1584,114 @@ Potencia = voltaje * corriente
 Potencia = 12 voltios x 1 amper
 Potencia = 12
 
+#### En los transformadores la potencia de salida es igual a la potencia q entró
+Lo único que cambió es que en la entrada tenías 110 voltios y en la salida tenes 12 voltios.
+
+La potencia es igual a 110 por corriente
+```
+P = 110 * I
+I = P/100 = 12/110
+I = 0,109
+```
+
+En la entrada tengo 0,109 amperios pero en la salida tengo 1 amperio
+Pero el voltaje en la entrada lo tengo más alto y en salida lo tengo más bajo, o sea el transformador compenza la corriente para que la potencia sea igual. La energía que se transmite del primario al secundario siempre va a ser la misma.
+
+
+Se usa este principio para transportar la energía que sale de las hidroelectricas o las termoeléctricas , elevan el voltaje lo transporta. La energía que sale es la misma que llega y las reparten a las casas utilizando transformador.
+
+
+#### rectificador
+Su función básica es convertir un voltaje ac en un voltaje cc pulsante. Este proceso se realiza con diodos rectificadores.
+
+### diodo rectificador
+sólo nos deja pasar una señal en un solo sentido. Si le coloco una onda alterna a la entrada con un diodo rectificador a la salida sólo voy a tener la parte positiva de la onda.
+
+#### rectificador tipo puente
+Resulta que yo puedo conectar estos diodos en una configuración que se llama **puente rectificador** a la salida del transformador,el transformador nos va a bajar el nivel del voltaje .
+
+### Como funciona el puente?
+31:24 Video 9 
+![rectificador puente](/electronica/rectificador_puente.png)
+Entonces se convierte las ondas q eran ciclos positivos y negativos los transformé todos a positivos.
+
+### Retificar la onda alterna significa volverla continua
+
+####  Puente rectificador
+Es un rectificador de onda completa que utliza cuatro diodos.
+De acuerod a la capacidad de corriente que yo necesite, los diodos pueden tener más corriente. 
+1. diodo puente rectificador chico la corriente de salida es de 1 amperio
+2. diodo puente rectificador de 2 amperios 4 amperios
+3. diodo puente rectificador de 25 amperios me rectifica o me das un poco más de corriente
+
+
+### Filtro
+Necesitamos que las ondas se conviertan en una línea recta.
+El voltaje de salida de los rectificadores tienen unas ondulaciones periódicas (rizado o ripple) que deben suavizarse para que la salida sea completamente uniforme. Esto se hace con el filtro el cual es un condensador electrolítico.
+
+Desde nuestro puente retificador colocamos un condensador.
+El condensador almacenará la energía y cuando cambia de polaridad el produce el efecto de descarga y descarga la energía. El transformador tiene algo que no permite que los voltajes se muevan tan rápido porq tienen un proceso de carga y descarga lenta.
+
+El filtro convierte la onda en una onda lo más cercana a una onda recta pero con un rizado.
+
+### El regulador
+
+![regulador rizado](/electronica/regulador_rizado.png)
+
+El rizado del voltaje de salida del rectificador con filtro puede variar de acuerdo a la carga. Para evitar esto se utiliza el regulador de voltaje que garantiza que la salida sea constante y sin rizado.
+
+Los reguladores están construidos en base a transistores.
+Minuto 39
+
+En el regulador independientemente de la carga la linea de salida siempre será recta.
+
+
+
+### Tipos de regulador
+Actualmente las fuentes de voltaje se diseñan con reguladores de voltaje integrados que poseen tres terminales. Estos reguladores pueden ser fijos o variables.
+1. Fijos: El voltaje de salida es uno sólo. Por ejemplo 5 o 12 voltios.
+2. Variables: Permite variar el voltaje de salida. 1 2 3 4 5 5 10 voltios
+3. Salida de voltaje positivo o voltaje negativo: cuando hablamos de voltaje positivo o negativo ,es con respecto al negativo de la fuente.
+
+![electrónica pasos onda](/electronica/pasos_onda.png)
+
+### Fuente de alimentación típica
+![electrónica regulador fijo](/electronica/regulador_fijo.png)
+
+60 hertz, 50 hertz. A salida tengo un voltaje que lo rectifico con un puente rectificador de diodos.
+
+### Utilizo sistemas de filtros con transformadores.
+En la salida coloco un condensador para evitar unos picos que se pueden generar a la salida. para evitar unos picos que se pueden generar a la salida.
+
+### Como medir un puente rectificador?
+Corriente: 1 amperio
+Símbolo de tierra: Negro negro
+Negro negro, o sea que la entrada de voltaje es por los cables negros.
+
+Salida: blanco negro blanco
+
+#### Este transformador tiene 3 cables, en el blanco 12 con respecto al negro
+#### y en el otro blanco tenemos otros 12 con respecto a este negro.
+A esto se lo conoce como condensadores con tap central.
+
+
+#### Cómo es un embobinado debe tener una cantidad grande 
+Lo colocamos en resistencia y lo colocamos, los dos cables negros son la entrada.
+Está desconectado el transformador, bajamos la escala.
+En la entrada me indica que tenemos 39 ohmio, y en la salida me indica que tengo una resistencia un poco más pequeña. Esto quiere decir que el transformador tiene continuidad. Una de las fallas típicas del transformador es que tiene el embobinado y se abre en una parte o sea se revienta el cable por un exceso de corriente y el cable se revienta.
+
+
+### El osciloscopio
+Nos muestra una representación gráfica del voltaje y de las ondas.
+
+Vamos a conectar nuestro transformador a la corriente y observemos como se representa la onda alterna.
+Acá dice que cada cuadrito tiene 10 voltios.
+![transformador salida](/electronica/transformador_salida.png)
+Por un lado tenemos la entrada de 110 voltios y por el otro la salida de 12 voltios
+## colocándole un condensador de un filtro pequeño de 0,1 microfaradios.
+
+### Los vatios miden la potencia eléctrica, o la cantidad de energía eléctrica que se usa por unidad de tiempo. Los voltios miden la diferencia de potencial eléctrico, también conocido como tensión eléctrica, que es la fuerza que impulsa la corriente eléctrica a través de un circuito.
+
+
+Los únicos que le hacen algo a la onda de voltaje son los puentes rectificadores.
 
