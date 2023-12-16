@@ -102,6 +102,7 @@ ___
 ## Módulo 2 - Educación Vial 
 Profesor: Rubén Tamis - Técnico superior en seguridad vial
 
+
 #### Motos
 No hay que demonizarla
 
@@ -513,6 +514,4 @@ Una vez aprobado el exámen práctico se tomarán las señales de forma oral.
 
 
 
-
-
-
+Nota adicional: Las **estrellas amarillas** no son una conmemoración, es una forma de alertar que en esos lugares hubo siniestros viales fatales.
