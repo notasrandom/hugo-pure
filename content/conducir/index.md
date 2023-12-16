@@ -344,14 +344,11 @@ no hace falta tener el ultimo recibo de pago del mes
 moto de 0km hasta los 12 meses
 
 
-recibo de patente en caso de que faltara es motivo de multa, pero no retención del auto
-impuesto que se paga a los municipios
-Motivos de detención
+### Motivos de detención
 
 1. Si me falta la licencia de conducir, es una multa y me van a retener el auto.
 2. Si me falta la cédula de identificación, es una multa y me van a retener el auto.
 3. Si me falta la VTV, es una multa me van a retener la licencia de conducir pero no el auto.
-4. Si me falta la recibo de patente, es una multa pero no te van a retener el auto.
 
 Papeles para conducir:
 ```
@@ -359,7 +356,7 @@ Papeles para conducir:
 2. Cédula verde (cédula de identificación)
 3. Seguro (Poliza)
 4. VTV
-5. Recibo de patente
+5. _DNI_
 ```
 
 debo entregar la documentacion o mostrarla de lejos?
