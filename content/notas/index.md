@@ -297,3 +297,17 @@ Sale más barato una resma de no se que puta.
 
 Ya desaparecieron los gricesitos esos.
 alacera 
+
+
+#### Chucrut
+1. Cortar repollo rebanalo  
+2. Exprimir 4 limones (sin semillas)
+3. 1 caldo
+4. Vinagre cualquier tipo (3 cucharas)
+5. Salchicha y sal
+### Preparación
+1. Agregar cebolla cortada bien chica
+2. Salchichas
+3. Repollo
+4. Caldo con limón
+5. Mostaza, agua y sal
