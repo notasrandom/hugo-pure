@@ -311,3 +311,5 @@ alacera
 3. Repollo
 4. Caldo con limón
 5. Mostaza, agua y sal
+
+El pintor le mando con telaraña.

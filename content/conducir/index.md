@@ -169,6 +169,12 @@ Escuelas: 20 km/h
 Rutas zona rural: 110 km/h
 Semi-autopista: 120 km/h
 ```
+
+**Camionetas**:
+```
+Semi-autopista: 110km/h
+```
+
 **Colectivo**:
 ```
 Ruta: 90km/h
@@ -418,9 +424,9 @@ si me salgo de la calzada y me ubico en la banquina recién ahi tengo que poner 
 
 ## flechas de chevrón
 1 flecha = máxima 40  
-2 flechas = máxima 80
+2 flechas = máxima 60
 #### Cómo se usa esto?
-Si la densidad de la niebla es tan espesa que sólo se puede ver 1 signo tenés que ir a 40 si podés ver las dos flechas podés ir a 80
+Si la densidad de la niebla es tan espesa que sólo se puede ver 1 signo tenés que ir a 40 si podés ver las dos flechas podés ir a 60
 
 #### Luces en los vehiculos
 ```
@@ -433,7 +439,7 @@ Cada vez bajarme del auto y controlar las luces
 
 **La velocidad agraba todos los accidentes, no es el tamaño ni el peso del auto porque hace que tengas menos tiempo de reacción**
 
-**Nunca lleves el vidrio a media hasta, bien abajo o apenas abierto**
+**Nunca lleves el vidrio a media asta, bien abajo o apenas abierto**
 
 
 ### Animales
@@ -515,3 +521,14 @@ Una vez aprobado el exámen práctico se tomarán las señales de forma oral.
 
 
 Nota adicional: Las **estrellas amarillas** no son una conmemoración, es una forma de alertar que en esos lugares hubo siniestros viales fatales.
+___
+#### Preguntas que me equivoqué
+- Tamaño de paragolpes: Prohibido ampliarlo
+- Girar para izquierda que debo hacer: aproximarme al cordón izquierdo para luego girar
+
+### Preguntas que valían 100 puntos
+1. Quién tiene prioridad en una encrucijada.
+2. 2 preguntas sobre alcohol 0.
+3. Prioridad en una rotonda.
+4. Papeles que hay que tener
+5. Si el cinturón de seguridad es obligatorio
